@@ -1,0 +1,55 @@
+{
+  "franchiseId": "id1",
+  "franchiseLogo": "content/images/franchise.png",
+  "franchiseName": "SmarteShip",
+  "email": "braden_bode@yahoo.com",
+  "phone": "888 000 8888",
+  "masterFlag": false,
+  "currency": "CAD",
+  "address1": "268 Lake Rd",
+  "address2": "",
+  "city": "New York",
+  "stateOrProvince": "NY",
+  "zipOrPostal": "10036",
+  "country": "USA",
+  "contactName": "Tyler Figueroa",
+  "financeEmail": "braden_bode@yahoo.com",
+  "operationsEmail1": "braden_bode@yahoo.com",
+  "operationsEmail2": "braden_bode@yahoo.com",
+  "operationsEmail3": "",
+  "primaryColor": "#472F92",
+  "secondaryColor": "#2FB5C0",
+  "urlForLogin": "",
+  "urlForRegister": "",
+  "keyContactList": [
+    {
+      "name": "Anthony Lopez",
+      "position": "CEO",
+      "mobilePhone": "+1 897 4321 5678",
+      "workPhone": "+1 897 1234 5678",
+      "otherPhone": "",
+      "primaryEmail": "dariana_altenwerth@heathcote.me",
+      "secondaryEmail": "dariana_altenwerth@heathcote.me"
+    },
+    {
+      "name": "Anthony Lopez",
+      "position": "Position",
+      "mobilePhone": "+1 897 4321 5678",
+      "workPhone": "+1 897 1234 5678",
+      "otherPhone": "",
+      "primaryEmail": "dariana_altenwerth@heathcote.me",
+      "secondaryEmail": "dariana_altenwerth@heathcote.me"
+    }
+  ],
+  "documents": [
+    {
+      "name": "Document Name can be long"
+    },
+    {
+      "name": "Document Name can be long"
+    },
+    {
+      "name": "Document Name can be long"
+    }
+  ]
+}

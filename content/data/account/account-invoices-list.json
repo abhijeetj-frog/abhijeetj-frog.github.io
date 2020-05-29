@@ -1,0 +1,494 @@
+{
+  "content": [
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "WO",
+      "noOfShipments": 7,
+      "dateSubmitted": "04/28/2018",
+      "aging": 8,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 0,
+      "status": {
+        "name": "Canceled",
+        "color": "gray"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "WO",
+      "noOfShipments": 20,
+      "dateSubmitted": "04/28/2018",
+      "aging": 5,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 0,
+      "status": {
+        "name": "Unpaid",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "",
+      "noOfShipments": 20,
+      "dateSubmitted": "04/28/2018",
+      "aging": 5,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 90000.0,
+      "status": {
+        "name": "Unpaid",
+        "color": "red"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "",
+      "noOfShipments": 17,
+      "dateSubmitted": "04/28/2018",
+      "aging": 34,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 0,
+      "status": {
+        "name": "Paid",
+        "color": "green"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "WO",
+      "noOfShipments": 1,
+      "dateSubmitted": "04/28/2018",
+      "aging": 8,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 500.43,
+      "status": {
+        "name": "Released",
+        "color": "red"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "WO",
+      "noOfShipments": 4,
+      "dateSubmitted": "04/28/2018",
+      "aging": 34,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 500.5,
+      "status": {
+        "name": "Released",
+        "color": "red"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "WO",
+      "noOfShipments": 3,
+      "dateSubmitted": "04/28/2018",
+      "aging": 8,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 500.0,
+      "status": {
+        "name": "Partially",
+        "color": "red"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "",
+      "noOfShipments": 3,
+      "dateSubmitted": "04/28/2018",
+      "aging": 6,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 0,
+      "status": {
+        "name": "Partially",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "",
+      "noOfShipments": 17,
+      "dateSubmitted": "04/28/2018",
+      "aging": 34,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 0,
+      "status": {
+        "name": "Paid",
+        "color": "green"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "",
+      "noOfShipments": 20,
+      "dateSubmitted": "04/28/2018",
+      "aging": 4,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 0,
+      "status": {
+        "name": "Paid",
+        "color": "green"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "",
+      "noOfShipments": 3,
+      "dateSubmitted": "04/28/2018",
+      "aging": 34,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 0,
+      "status": {
+        "name": "Paid",
+        "color": "green"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "CWS0831098",
+      "companyName": "Customer Name",
+      "invoicePrefix": "WO",
+      "noOfShipments": 20,
+      "dateSubmitted": "04/28/2018",
+      "aging": 8,
+      "dueDate": "04/28/2018",
+      "currency": "CAD",
+      "totalAmount": 98000.0,
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "balanceDue": 500.0,
+      "status": {
+        "name": "Unpaid",
+        "color": "red"
+      },
+      "lastPaymentDate": "04/28/2018"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "pageSize": 20,
+    "pageNumber": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 3,
+  "totalPages": 1,
+  "last": true,
+  "size": 20,
+  "number": 0,
+  "numberOfElements": 3,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "first": true
+}

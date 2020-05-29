@@ -1,0 +1,89 @@
+{
+    "widgets": [{
+            "label": "Total Commission",
+            "value": 1233,
+            "currency": true
+        },
+        {
+            "label": "Status",
+            "value": "ACCEPTED"
+        }
+    ],
+    "content": [{
+            "shipId": "234567",
+            "freightCharge": 17.35,
+            "totalShipmentCharge": 17.35,
+            "grossProfit": 17.35,
+            "affCommission": 17.35,
+            "profit": 17.35,
+            "affCustomer": "Company Name 1 Ltd",
+            "currency": "CAD",
+            "numberBox": {
+                "label": "Shipment ID",
+                "name": "",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "shipId": "234567",
+            "freightCharge": 17.35,
+            "totalShipmentCharge": 17.35,
+            "grossProfit": 17.35,
+            "affCommission": 17.35,
+            "profit": 17.35,
+            "affCustomer": "Company Name 1 Ltd",
+            "currency": "CAD",
+            "numberBox": {
+                "label": "Shipment ID",
+                "name": "",
+                "number": "234567",
+                "chip": {
+                    "name": "EDI",
+                    "type": "brown"
+                }
+            }
+        },
+        {
+            "shipId": "234567",
+            "freightCharge": 17.35,
+            "totalShipmentCharge": 17.35,
+            "grossProfit": 17.35,
+            "affCommission": 17.35,
+            "profit": 17.35,
+            "affCustomer": "Company Name 1 Ltd",
+            "currency": "CAD",
+            "numberBox": {
+                "label": "Shipment ID",
+                "name": "",
+                "number": "234567",
+                "chip": {
+                    "name": "EDI",
+                    "type": "brown"
+                }
+            }
+        },
+        {
+            "shipId": "234567",
+            "freightCharge": 17.35,
+            "totalShipmentCharge": 17.35,
+            "grossProfit": 17.35,
+            "affCommission": 17.35,
+            "profit": 17.35,
+            "affCustomer": "Company Name 1 Ltd",
+            "currency": "CAD",
+            "numberBox": {
+                "label": "Shipment ID",
+                "name": "",
+                "number": "234567",
+                "chip": {
+                    "name": "EDI",
+                    "type": "brown"
+                }
+            }
+        }
+    ]
+}

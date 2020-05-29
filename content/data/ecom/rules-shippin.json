@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "ruleName": "Sort all shipments by cheapest",
+      "descripton": "When all shipments going to Algeria, American Samoa or Andorra, always include insurance, taxes and duties are post-paid (receiver), taxes and duties are post-paid (receiver) and prefer the cheapest.",
+      "allStores": true,
+      "enable": false,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Sort all shipments by cheapest",
+      "descripton": "When all shipments going to Algeria, American Samoa or Andorra, always include insurance, taxes and duties are post-paid (receiver), taxes and duties are post-paid (receiver) and prefer the cheapest.",
+      "allStores": true,
+      "enable": true,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Sort all shipments by cheapest",
+      "descripton": "When all shipments going to Algeria, American Samoa or Andorra, always include insurance, taxes and duties are post-paid (receiver), taxes and duties are post-paid (receiver) and prefer the cheapest.",
+      "allStores": true,
+      "enable": false,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Free Shipping in Canada",
+      "descripton": "When all shipments going to Algeria, American Samoa or Andorra, always include insurance, taxes and duties are post-paid (receiver), taxes and duties are post-paid (receiver) and prefer the cheapest.",
+      "allStores": true,
+      "enable": false,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Free Shipping in Canada",
+      "descripton": "When all shipments going to Algeria, American Samoa or Andorra, always include insurance, taxes and duties are post-paid (receiver), taxes and duties are post-paid (receiver) and prefer the cheapest.",
+      "allStores": true,
+      "enable": true,
+      "ecomStoresId": [1, 2, 3]
+    }
+  ]
+}

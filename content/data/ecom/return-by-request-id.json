@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "imgPath": "content/images/stores/shopify.png",
+      "request": "REQ1234567890",
+      "consumer": "Eva Guzman",
+      "submited": "12/24/2019",
+      "requestType": "Refund",
+      "orderStatus": true,
+      "aStatus": false,
+      "status": "Resolved"
+    },
+    {
+      "imgPath": "content/images/stores/shopify.png",
+      "request": "REQ1234567890",
+      "consumer": "Jesse Collins",
+      "submited": "12/24/2019",
+      "requestType": "Mixed",
+      "orderStatus": true,
+      "aStatus": true,
+      "status": "In Progress"
+    },
+    {
+      "imgPath": "content/images/stores/shopify.png",
+      "request": "REQ1234567890",
+      "consumer": "Cody Phillips",
+      "submited": "12/24/2019",
+      "requestType": "Mixed",
+      "orderStatus": false,
+      "aStatus": false,
+      "status": "In Progress"
+    },
+    {
+      "imgPath": "content/images/stores/shopify.png",
+      "request": "REQ1234567890",
+      "consumer": "Rena Roberson",
+      "submited": "12/24/2019",
+      "requestType": "Replace",
+      "orderStatus": true,
+      "aStatus": true,
+      "status": "In Progress"
+    },
+    {
+      "imgPath": "content/images/stores/shopify.png",
+      "request": "REQ1234567890",
+      "consumer": "Benedict Cumberbatch",
+      "submited": "12/24/2019",
+      "requestType": "Refund",
+      "orderStatus": true,
+      "aStatus": true,
+      "status": "Resolved"
+    },
+    {
+      "imgPath": "content/images/stores/shopify.png",
+      "request": "REQ1234567890",
+      "consumer": "Eva Guzman",
+      "submited": "12/24/2019",
+      "requestType": "Mixed",
+      "orderStatus": false,
+      "aStatus": false,
+      "status": "In Progress"
+    },
+    {
+      "imgPath": "content/images/stores/shopify.png",
+      "request": "REQ1234567890",
+      "consumer": "Benedict Cumberbatch",
+      "submited": "12/24/2019",
+      "requestType": "Refund",
+      "orderStatus": true,
+      "aStatus": true,
+      "status": "Rejected"
+    },
+    {
+      "imgPath": "content/images/stores/ebay.png",
+      "request": "REQ1234567890",
+      "consumer": "Rena Roberson",
+      "submited": "12/24/2019",
+      "requestType": "Replace",
+      "orderStatus": false,
+      "aStatus": false,
+      "status": "In Progress"
+    },
+    {
+      "imgPath": "content/images/stores/ebay.png",
+      "request": "REQ1234567890",
+      "consumer": "Annie Cobb",
+      "submited": "12/24/2019",
+      "requestType": "Mixed",
+      "orderStatus": false,
+      "aStatus": false,
+      "status": "Resolved"
+    },
+    {
+      "imgPath": "content/images/stores/ebay.png",
+      "request": "REQ1234567890",
+      "consumer": "Annie Cobb",
+      "submited": "12/24/2019",
+      "requestType": "Refund",
+      "orderStatus": true,
+      "aStatus": true,
+      "status": "Rejected"
+    }
+  ]
+}

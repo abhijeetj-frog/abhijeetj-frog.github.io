@@ -1,0 +1,194 @@
+{
+  "company": {
+    "name": "Next Flight Out",
+    "logo": "",
+    "info": ""
+  },
+  "from": {
+    "label": "From",
+    "title": "MacAndrews & Forbes Holdings",
+    "description": "4 Chome-8-２４ Kudanminami, Chiyoda-ku, Tōkyō-to 102-0074, Japan",
+    "secondDescription": "04/28/2018"
+  },
+  "fromContact": {
+    "label": "Contact",
+    "title": "Marian Gray",
+    "description": "matteo.krajcik@reynolds.io",
+    "secondDescription": "641-146-0234"
+  },
+  "to": {
+    "label": "To",
+    "title": "Statbucks Canada",
+    "description": "16 Bloor St W, Toronto, ON M6P 1A7, Canada",
+    "secondDescription": "04/28/2018"
+  },
+  "toContact": {
+    "label": "Contact",
+    "title": "Marian Gray",
+    "description": "matteo.krajcik@reynolds.io",
+    "secondDescription": "641-146-0234"
+  },
+  "additionalInfo": [
+    {
+      "label": "Type",
+      "value": "Packages"
+    },
+    {
+      "label": "Qty",
+      "value": 6
+    },
+    {
+      "label": "Size & Weight",
+      "value": "2 x 1 x 2  / 4",
+      "info": {
+        "title": "Dimension Details",
+        "moreData": [
+          {
+            "label": "21x 1 x 9 in (LxWxH)",
+            "value": "7 lbs"
+          },
+          {
+            "label": "8 x 1 x 9 in",
+            "value": "12 lbs"
+          },
+          {
+            "label": "1 x 1 x 9 in",
+            "value": "7 lbs"
+          },
+          {
+            "label": "8 x 1 x 9 in",
+            "value": "23 lbs"
+          },
+          {
+            "label": "7 x 21 x 4 in",
+            "value": "69 lbs"
+          },
+          {
+            "label": "8 x 1 x 9 in",
+            "value": "23 lbs"
+          },
+          {
+            "label": "7 x 21 x 4 in",
+            "value": "69 lbs"
+          },
+          {
+            "divider": true,
+            "label": "",
+            "value": ""
+          },
+          {
+            "active": true,
+            "label": "Total Weight",
+            "value": "256.50 lbs"
+          }
+        ]
+      }
+    },
+    {
+      "label": "COD",
+      "value": 12.0,
+      "currency": true
+    },
+    {
+      "label": "Insurance",
+      "value": 10000.0,
+      "currency": true
+    },
+    {
+      "label": "DG",
+      "value": "None",
+      "infoTooltip": "Info tooltip"
+    },
+    {
+      "label": "Quote By",
+      "value": "Mary Saltman"
+    },
+    {
+      "label": "Sales",
+      "value": "Tom Hillson"
+    }
+  ],
+  "charges": [
+    {
+      "label": "Original Quote",
+      "value": 400.0,
+      "currency": true
+    },
+    {
+      "label": "Extra Charges",
+      "value": 300.0,
+      "currency": true
+    },
+    {
+      "label": "Fuel Charge",
+      "value": 20.0,
+      "currency": true
+    },
+    {
+      "label": "Fuel Surcharge",
+      "value": 20.0,
+      "currency": true
+    },
+    {
+      "label": "HST",
+      "value": "$ 20.00"
+    },
+    {
+      "active": true,
+      "label": "Total Charges",
+      "value": 674.26,
+      "currency": true
+    }
+  ],
+  "documentsList": [
+    {
+      "name": "Shipping Label",
+      "url": ""
+    },
+    {
+      "name": "Custom Invoice",
+      "url": ""
+    },
+    {
+      "name": "Receipt",
+      "url": ""
+    }
+  ],
+  "progressReports": [
+    {
+      "status": "In Transit",
+      "date": "04/28/2018",
+      "address": "CA, Toronto",
+      "name": "Jon Little",
+      "note": "Fire Up Your Motivation"
+    },
+    {
+      "status": "In Transit",
+      "date": "04/28/2018",
+      "address": "CA, Toronto",
+      "name": "Jon Little",
+      "note": "Fire Up Your Motivation"
+    },
+    {
+      "status": "In Transit",
+      "date": "04/28/2018",
+      "address": "CA, Toronto",
+      "name": "Jon Little",
+      "note": "Fire Up Your Motivation"
+    },
+    {
+      "status": "In Transit",
+      "date": "04/28/2018",
+      "address": "CA, Toronto",
+      "name": "Jon Little",
+      "note": "Fire Up Your Motivation"
+    },
+    {
+      "status": "In Transit",
+      "date": "04/28/2018",
+      "address": "CA, Toronto",
+      "name": "Jon Little",
+      "note": "Fire Up Your Motivation"
+    }
+  ]
+}

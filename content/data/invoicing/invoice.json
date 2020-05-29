@@ -1,0 +1,95 @@
+{
+  "id": "#123456",
+  "companyName": "Magnate Shipping Lines Limited",
+  "invoicePrefix": "WO",
+  "dateCreated": "04/28/2018",
+  "noOfShipments": 3,
+  "totalAmount": 407000.5,
+  "currency": "CAD",
+  "profit": 623.5,
+  "dueDate": "05/28/2018",
+  "balanceDue": 123100.0,
+  "comment": "",
+  "commentPublicFlag": false,
+  "depositAmount": 500,
+  "discountFlag": true,
+  "depositFlag": true,
+  "depositLabel": 8500.0,
+  "discount": "Discount %",
+  "discountValue": 20,
+  "discountAmount": 600.0,
+  "dateSubmitted": "04/22/2019",
+  "status": {
+    "name": "Partially",
+    "color": "red"
+  },
+  "amountReceived": 1456.5,
+  "lastPaymentDate": "04/22/2019",
+
+  "creditLabel": "unexpected",
+  "workOrdertype": "unexpected",
+  "depositCurrency": "unexpected",
+  "availableCreditNotes": "unexpected",
+  "creditNotesCurrency": "unexpected",
+  "workOrders": [
+    {
+      "id": "BMN-1234567890",
+      "link": "/admin/invoicing/cod",
+      "oriCost": 500.0,
+      "oriCharge": 700.0,
+      "profit": 200.0
+    },
+    {
+      "id": "BMN-1234567890",
+      "link": "/admin/invoicing/cod",
+      "oriCost": 500.0,
+      "oriCharge": 700.0,
+      "profit": 200.0
+    },
+    {
+      "id": "BMN-1234567890",
+      "link": "/admin/invoicing/cod",
+      "oriCost": 500.0,
+      "oriCharge": 700.0,
+      "profit": 200.0
+    }
+  ],
+  "subTotal": 154500.0,
+  "docs": [
+    {
+      "id": "docA",
+      "name": "INV 12345678-A",
+      "date": "02/30/2019",
+      "time": "23:00",
+      "url": ""
+    },
+    {
+      "id": "docB",
+      "name": "INV 12345678-B",
+      "date": "02/30/2019",
+      "time": "23:00",
+      "url": ""
+    },
+    {
+      "id": "docC",
+      "name": "INV 12345678-C",
+      "date": "02/30/2019",
+      "time": "23:00",
+      "url": ""
+    },
+    {
+      "id": "docD",
+      "name": "INV 12345678-D",
+      "date": "02/30/2019",
+      "time": "23:00",
+      "url": ""
+    },
+    {
+      "id": "docF",
+      "name": "INV 12345678-F",
+      "date": "02/30/2019",
+      "time": "23:00",
+      "url": ""
+    }
+  ]
+}

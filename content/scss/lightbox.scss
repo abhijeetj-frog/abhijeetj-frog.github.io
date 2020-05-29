@@ -1,0 +1,296 @@
+/* Preload images */
+body:after {
+  display: none;
+}
+
+html.lb-disable-scrolling {
+  overflow: hidden;
+}
+
+.lightboxOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  z-index: 9999;
+  background-color: rgba(#000, 0.75);
+}
+
+.lightbox {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  z-index: 10000;
+  text-align: center;
+  line-height: 0;
+  font-weight: normal;
+  box-sizing: content-box;
+  outline: none;
+  display: flex !important;
+  justify-content: center;
+  overflow: hidden;
+
+  .lb-image {
+    height: auto;
+    max-width: inherit;
+    max-height: none;
+  }
+
+  a {
+    img {
+      border: none;
+    }
+  }
+}
+
+
+.lb-outerContainer {
+  position: relative;
+  *zoom: 1;
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.lb-outerContainer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.lb-loader {
+  position: absolute;
+  top: 43%;
+  left: 0;
+  height: 25%;
+  width: 100%;
+  text-align: center;
+  line-height: 0;
+}
+
+.lb-cancel {
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin: 0 auto;
+}
+
+
+
+.lb-container>.nav {
+  left: 0;
+}
+
+.lb-nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+
+  a {
+    outline: none;
+    cursor: pointer;
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top: 50%;
+    margin-top: -24px;
+    font-family: 'eshipper' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: block;
+    line-height: 48px;
+    text-align: center;
+    font-size: 48px;
+    color: #fff;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    &.lb-prev {
+      left: -48px;
+
+      &:before {
+        content: "\e408";
+
+      }
+    }
+
+    &.lb-next {
+      right: -48px;
+
+      &:before {
+        content: "\e409";
+      }
+    }
+  }
+}
+
+.lb-dataContainer {
+  margin: 0 auto;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.lb-dataContainer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.lb-data {
+  position: absolute;
+  top: 0;
+  right: -48px;
+
+  .lb-details {
+    display: none;
+  }
+
+  .lb-close {
+    font-family: 'eshipper' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: block;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    font-size: 32px;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+
+    &:before {
+      content: "\e5cd";
+    }
+  }
+}
+
+/* animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+
+@keyframes fadeInOverlay {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 0.8;
+  }
+}
+
+@-webkit-keyframes fadeInOverlay {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 0.8;
+  }
+}
+
+@keyframes fadeOutOverlay {
+  0% {
+    opacity: 0.8;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes fadeOutOverlay {
+  0% {
+    opacity: 0.8;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+.fadeInOverlay {
+  -webkit-animation-name: fadeInOverlay;
+  animation-name: fadeInOverlay;
+}
+
+.fadeOut {
+  -webkit-animation-name: fadeOut;
+  animation-name: fadeOut;
+}
+
+.fadeOutOverlay {
+  -webkit-animation-name: fadeOutOverlay;
+  animation-name: fadeOutOverlay;
+}
+
+.animation {
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.transition {
+  /* Standard syntax */
+  transition-property: all;
+  transition-timing-function: ease;
+}
+
+/* animation */

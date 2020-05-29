@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "boxType": "Envelope",
+      "boxName": "Customized Name",
+      "dimension": {
+        "l": "20",
+        "w": "40",
+        "h": "12"
+      },
+      "units": {
+        "weight": "lbs",
+        "size": "in"
+      },
+      "weight": 24,
+      "maxSupportWeight": 100,
+      "description": "Only for abc products"
+    },
+    {
+      "boxType": "Box",
+      "boxName": "Customized Name",
+      "dimension": {
+        "l": "20",
+        "w": "40",
+        "h": "12"
+      },
+      "units": {
+        "weight": "lbs",
+        "size": "in"
+      },
+      "weight": 24,
+      "maxSupportWeight": 100,
+      "description": "Only for abc products"
+    },
+    {
+      "boxType": "Skid",
+      "boxName": "Customized Name",
+      "dimension": {
+        "l": "20",
+        "w": "40",
+        "h": "12"
+      },
+      "units": {
+        "weight": "lbs",
+        "size": "in"
+      },
+      "weight": 24,
+      "maxSupportWeight": 100,
+      "description": "Only for abc products"
+    },
+    {
+      "boxType": "Type",
+      "boxName": "Customized Name",
+      "dimension": {
+        "l": "20",
+        "w": "40",
+        "h": "12"
+      },
+      "units": {
+        "weight": "lbs",
+        "size": "in"
+      },
+      "weight": 24,
+      "maxSupportWeight": 100,
+      "description": "Only for abc products"
+    },
+    {
+      "boxType": "Type",
+      "boxName": "Customized Name",
+      "dimension": {
+        "l": "20",
+        "w": "40",
+        "h": "12"
+      },
+      "units": {
+        "weight": "lbs",
+        "size": "in"
+      },
+      "weight": 24,
+      "maxSupportWeight": 100,
+      "description": "Only for abc products"
+    }
+  ]
+}

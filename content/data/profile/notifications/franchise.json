@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "name": "New Franchise Created",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Franchise Markup Changed",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    }
+  ]
+}

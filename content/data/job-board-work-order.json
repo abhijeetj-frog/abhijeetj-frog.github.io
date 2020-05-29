@@ -1,0 +1,366 @@
+{
+  "content": [
+    {
+      "marker": "red",
+      "new": true,
+      "link": "/admin/work-order/job-board/work-order-track-details",
+      "numberBox": {
+        "label": "WO",
+        "name": "Starbucks Canada",
+        "subName": "Next Flight Out",
+        "number": "1234567890",
+        "chip": {
+          "name": "",
+          "type": ""
+        }
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "created": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "In Transit",
+        "color": "blue"
+      }
+    },
+    {
+      "marker": "yellow",
+      "link": "/admin/work-order/job-board/work-order-track-details",
+      "numberBox": {
+        "label": "WO",
+        "name": "Starbucks Canada",
+        "subName": "Next Flight Out",
+        "number": "1234567890",
+        "chip": {
+          "name": "",
+          "type": ""
+        }
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "created": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "In Transit",
+        "color": "blue"
+      }
+    },
+    {
+      "marker": "green",
+      "link": "/admin/work-order/job-board/work-order-track-details",
+      "numberBox": {
+        "label": "WO",
+        "name": "Starbucks Canada",
+        "subName": "Next Flight Out",
+        "number": "1234567890",
+        "chip": {
+          "name": "",
+          "type": ""
+        }
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "created": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "In Transit",
+        "color": "blue"
+      }
+    },
+    {
+      "marker": "green",
+      "link": "/admin/work-order/job-board/work-order-track-details",
+      "numberBox": {
+        "label": "WO",
+        "name": "Starbucks Canada",
+        "subName": "Next Flight Out",
+        "number": "1234567890",
+        "chip": {
+          "name": "SP",
+          "type": "blue"
+        }
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "created": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "In Transit",
+        "color": "blue"
+      }
+    },
+    {
+      "link": "/admin/work-order/job-board/work-order-track-details",
+      "numberBox": {
+        "label": "WO",
+        "name": "Starbucks Canada",
+        "subName": "Next Flight Out",
+        "number": "1234567890",
+        "chip": {
+          "name": "",
+          "type": ""
+        }
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "created": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "In Transit",
+        "color": "blue"
+      }
+    },
+    {
+      "link": "/admin/work-order/job-board/work-order-track-details",
+      "numberBox": {
+        "label": "WO",
+        "name": "Starbucks Canada",
+        "subName": "Next Flight Out",
+        "number": "1234567890",
+        "chip": {
+          "name": "",
+          "type": ""
+        }
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "created": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "In Transit",
+        "color": "blue"
+      }
+    },
+    {
+      "link": "/admin/work-order/job-board/work-order-track-details",
+      "numberBox": {
+        "label": "WO",
+        "name": "Starbucks Canada",
+        "subName": "Next Flight Out",
+        "number": "1234567890",
+        "chip": {
+          "name": "",
+          "type": ""
+        }
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+        "date": "04/28/2018"
+      },
+      "created": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "In Transit",
+        "color": "blue"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "content": [
+    {
+      "active": true,
+      "companyId": 0,
+      "createdDate": "03/28/2017",
+      "domain": "Your_shop_ID.myshopify.com",
+      "name": "Store Name",
+      "imgPath": "content/images/stores/shopify.png"
+    },
+    {
+      "active": true,
+      "companyId": 1,
+      "createdDate": "03/28/2017",
+      "domain": "Your_shop_ID.myshopify.com",
+      "name": "Neato Robotics",
+      "imgPath": "content/images/stores/shopify.png"
+    },
+    {
+      "active": true,
+      "companyId": 2,
+      "createdDate": "03/28/2017",
+      "domain": "Your_shop_ID.myshopify.com",
+      "name": "Store Name",
+      "imgPath": "content/images/stores/shopify.png"
+    },
+    {
+      "active": false,
+      "companyId": 3,
+      "createdDate": "03/28/2017",
+      "domain": "www.amazon.ca/stores/yourshopID.com",
+      "name": "Store Name",
+      "imgPath": "content/images/stores/amazon.png"
+    }
+  ]
+}

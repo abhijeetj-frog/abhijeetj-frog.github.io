@@ -1,0 +1,384 @@
+{
+  "content": [
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc can be...",
+      "payeeCategory": "Settlement",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 210.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 0,
+      "dateSubmitted": "04/28/2018",
+      "status": {
+        "name": "Paid",
+        "color": "green"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc",
+      "payeeCategory": "Financial Services",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 88378.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 500.5,
+      "dateSubmitted": "",
+      "status": {
+        "name": "Unpaid",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc",
+      "payeeCategory": "Donations",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 88378.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 500.5,
+      "dateSubmitted": "",
+      "status": {
+        "name": "Unpaid",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc can be...",
+      "payeeCategory": "Commissions",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 211.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 0,
+      "dateSubmitted": "04/28/2018",
+      "status": {
+        "name": "Paid",
+        "color": "green"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc",
+      "payeeCategory": "Consultants Fees",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 88378.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 500.5,
+      "dateSubmitted": "",
+      "status": {
+        "name": "Unpaid",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc can be...",
+      "payeeCategory": "Freight Forwarder",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 211.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 0,
+      "dateSubmitted": "04/28/2018",
+      "status": {
+        "name": "Paid",
+        "color": "green"
+      },
+      "lastPaymentDate": "04/28/2018"
+    },
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc",
+      "payeeCategory": "Settlement",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 970578.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 0,
+      "dateSubmitted": "04/28/2018",
+      "status": {
+        "name": "Partially",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "44160",
+      "payee": "Hybrid Logistics Solutions Inc can be...",
+      "payeeCategory": "Maintenance",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 211.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 0,
+      "dateSubmitted": "04/28/2018",
+      "status": {
+        "name": "Canceled",
+        "color": "gray"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "44160",
+      "payee": "Magnate Shipping Lines Limited",
+      "payeeCategory": "Commissions",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 88378.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 500.5,
+      "dateSubmitted": "",
+      "status": {
+        "name": "Unpaid",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "44160",
+      "payee": "All Printing Resources Ltd",
+      "payeeCategory": "Donations",
+      "dateCreated": "04/28/2018",
+      "payment": "Check",
+      "totalAmount": 970578.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "balanceDue": 500.5,
+      "dateSubmitted": "04/28/2018",
+      "status": {
+        "name": "Partially",
+        "color": "red"
+      },
+      "lastPaymentDate": ""
+    }
+  ]
+}

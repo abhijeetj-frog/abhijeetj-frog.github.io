@@ -1,0 +1,191 @@
+{
+  "smallWidgets": [
+    {
+      "label": "Total Shipment",
+      "value": 6
+    },
+    {
+      "label": "Dormant Stage",
+      "value": "6 M"
+    },
+    {
+      "label": "Last Shipment",
+      "value": "02/21/2009"
+    },
+    {
+      "label": "Salesperson",
+      "value": "Bradley Leonard"
+    },
+    {
+      "label": "Revenue",
+      "value": 500.0,
+      "currency": true
+    },
+    {
+      "label": "Profit",
+      "value": 500.0,
+      "currency": true
+    },
+    {
+      "label": "Total (CAD)",
+      "value": 13678.5,
+      "currency": true,
+      "details": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "SP",
+        "type": "light-blue"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "eCom",
+        "type": "purple"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "Quick",
+        "type": "orange"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "Delivered",
+      "statusColor": "green"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "",
+        "type": ""
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "Delivered",
+      "statusColor": "green"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "",
+        "type": ""
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "eCom",
+        "type": "purple"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    }
+  ]
+}

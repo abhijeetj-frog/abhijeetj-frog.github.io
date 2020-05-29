@@ -1,0 +1,68 @@
+{
+  "content": [
+    {
+      "id": "CWS0831098",
+      "paidDate": "04/28/2018",
+      "paidAmount": 98000.0,
+      "currency": "CAD",
+      "comment": "Message goes here..."
+    },
+    {
+      "id": "CWS0831098",
+      "paidDate": "04/28/2018",
+      "paidAmount": 98000.0,
+      "currency": "CAD",
+      "comment": "Message goes here very long"
+    },
+    {
+      "id": "CWS0831098",
+      "paidDate": "04/28/2018",
+      "paidAmount": 98000.0,
+      "currency": "CAD",
+      "comment": "Message goes here..."
+    },
+    {
+      "id": "CWS0831098",
+      "paidDate": "04/28/2018",
+      "paidAmount": 98000.0,
+      "currency": "CAD",
+      "comment": "Message goes here..."
+    },
+    {
+      "id": "CWS0831098",
+      "paidDate": "04/28/2018",
+      "paidAmount": 98000.0,
+      "currency": "CAD",
+      "comment": "Message goes here..."
+    },
+    {
+      "id": "CWS0831098",
+      "paidDate": "04/28/2018",
+      "paidAmount": 98000.0,
+      "currency": "CAD",
+      "comment": "Message goes here..."
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "pageSize": 20,
+    "pageNumber": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 3,
+  "totalPages": 1,
+  "last": true,
+  "size": 20,
+  "number": 0,
+  "numberOfElements": 3,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "first": true
+}

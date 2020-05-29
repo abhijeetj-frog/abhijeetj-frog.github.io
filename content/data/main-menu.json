@@ -1,0 +1,209 @@
+[
+  {
+    "id": "1",
+    "name": "Dashboard",
+    "icon": "icon-outline-dashboard",
+    "path": "/admin/dashboard",
+    "inner": []
+  },
+  {
+    "id": "2",
+    "name": "Work Order",
+    "icon": "icon-outline-local_shipping",
+    "path": "/admin/work-order/create-work-order",
+    "inner": [
+      {
+        "id": "2_1",
+        "name": "Create Work Order",
+        "path": "/admin/work-order/create-work-order"
+      },
+      {
+        "id": "2_2",
+        "name": "Job Board",
+        "path": "/admin/work-order/job-board"
+      },
+      {
+        "id": "2_3",
+        "name": "Draft",
+        "path": "/admin/work-order/draft"
+      },
+      {
+        "id": "2_4",
+        "name": "WO Library",
+        "path": "/admin/work-order/wo-library"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Tracking",
+    "icon": "icon-outline-explore",
+    "path": "/admin/tracking",
+    "inner": []
+  },
+  {
+    "id": "4",
+    "name": "EDI",
+    "icon": "icon-outline-insert_drive_file",
+    "path": "/admin/edi/edi-header",
+    "inner": [
+      {
+        "id": "4_1",
+        "name": "EDI Header",
+        "path": "/admin/edi/edi-header"
+      },
+      {
+        "id": "4_2",
+        "name": "Orphan EDI",
+        "path": "/admin/edi/orphan-edi"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Invoicing",
+    "icon": "icon-outline-receipt",
+    "path": "/admin/invoicing/invoices",
+    "inner": [
+      {
+        "id": "5_1",
+        "name": "Draft",
+        "path": "/admin/invoicing/draft-invoices"
+      },
+      {
+        "id": "5_2",
+        "name": "Invoices",
+        "path": "/admin/invoicing/invoices"
+      },
+      {
+        "id": "5_3",
+        "name": "AR",
+        "path": "/admin/invoicing/ar"
+      },
+      {
+        "id": "5_4",
+        "name": "AP",
+        "path": "/admin/invoicing/ap/payables"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Reports",
+    "icon": "icon-trending_up",
+    "path": "/admin/reports/guest-quick-quote",
+    "inner": [
+      {
+        "id": "6_1",
+        "name": "Guest Quick Quote",
+        "path": "/admin/reports/guest-quick-quote"
+      },
+      {
+        "id": "6_2",
+        "name": "Insurance",
+        "path": "/admin/reports/insurance"
+      },
+      {
+        "id": "6_3",
+        "name": "CC Auth",
+        "path": "/admin/reports/cc-auth"
+      },
+      {
+        "id": "6_4",
+        "name": "Account",
+        "path": "/admin/reports/reports-account"
+      },
+      {
+        "id": "6_5",
+        "name": "Profit & Loss",
+        "path": "/admin/reports/profit-loss"
+      },
+      {
+        "id": "6_6",
+        "name": "Carriers",
+        "path": "/admin/reports/carriers"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Sales Center",
+    "icon": "icon-outline-monetization_on",
+    "path": "/admin/sales-center/sales",
+    "inner": [
+      {
+        "id": "7_1",
+        "name": "Sales",
+        "path": "/admin/sales-center/sales"
+      },
+      {
+        "id": "7_2",
+        "name": "Affiliates",
+        "path": "/admin/sales-center/affiliates"
+      },
+      {
+        "id": "7_3",
+        "name": "Commissions",
+        "path": "/admin/sales-center/commissions"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Admin",
+    "icon": "icon-outline-account_box",
+    "path": "/admin/account/customers",
+    "inner": [
+      {
+        "id": "8_1",
+        "name": "Customers",
+        "path": "/admin/account/customers"
+      },
+      {
+        "id": "8_2",
+        "name": "Roles",
+        "path": "/admin/account/roles"
+      },
+      {
+        "id": "8_3",
+        "name": "Users",
+        "path": "/admin/account/users"
+      },
+      {
+        "id": "8_4",
+        "name": "Markups",
+        "path": "/admin/account/markups"
+      },
+      {
+        "id": "8_5",
+        "name": "News",
+        "path": "/admin/account/news"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Support",
+    "icon": "icon-outline-build",
+    "path": "/admin/support/claims",
+    "inner": [
+      {
+        "id": "6_1",
+        "name": "Claims",
+        "path": "/admin/support/claims"
+      },
+      {
+        "id": "6_2",
+        "name": "Tickets",
+        "path": "/admin/support/tickets"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Log Out",
+    "icon": "icon-power_settings_new",
+    "path": "/",
+    "inner": []
+  }
+]

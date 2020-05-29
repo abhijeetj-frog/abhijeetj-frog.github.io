@@ -1,0 +1,169 @@
+{
+  "content": [
+    {
+      "id": "id1",
+      "logo": "content/images/franchise.png",
+      "name": "Franchise Name",
+      "franchiseShipments": 800,
+      "franchiseRevenue": 580.54,
+      "franchiseCost": 560.09,
+      "franchiseGrossProfit": 346,
+      "franchiseNetProfit": 446.76,
+      "franchiseCharge": 698000.0,
+      "franchiseChargeDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ]
+    },
+    {
+      "id": "id2",
+      "logo": "content/images/franchise.png",
+      "name": "Franchise Name",
+      "franchiseShipments": 800,
+      "franchiseRevenue": 580.54,
+      "franchiseCost": 560.09,
+      "franchiseGrossProfit": 346,
+      "franchiseNetProfit": 446.76,
+      "franchiseCharge": 698000.0,
+      "franchiseChargeDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ]
+    },
+    {
+      "id": "id3",
+      "logo": "content/images/franchise.png",
+      "name": "Franchise Name",
+      "franchiseShipments": 800,
+      "franchiseRevenue": 580.54,
+      "franchiseCost": 560.09,
+      "franchiseGrossProfit": 346,
+      "franchiseNetProfit": 446.76,
+      "franchiseCharge": 698000.0,
+      "franchiseChargeDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ]
+    },
+    {
+      "id": "id4",
+      "logo": "content/images/franchise.png",
+      "name": "Franchise Name",
+      "franchiseShipments": 800,
+      "franchiseRevenue": 580.54,
+      "franchiseCost": 560.09,
+      "franchiseGrossProfit": 346,
+      "franchiseNetProfit": 446.76,
+      "franchiseCharge": 698000.0,
+      "franchiseChargeDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ]
+    },
+    {
+      "id": "id5",
+      "logo": "content/images/franchise.png",
+      "name": "Franchise Name",
+      "franchiseShipments": 800,
+      "franchiseRevenue": 580.54,
+      "franchiseCost": 560.09,
+      "franchiseGrossProfit": 346,
+      "franchiseNetProfit": 446.76,
+      "franchiseCharge": 698000.0,
+      "franchiseChargeDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ]
+    }
+  ]
+}

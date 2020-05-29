@@ -1,0 +1,307 @@
+{
+  "content": [
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "",
+      "tracking": "",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "doc.doc",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Pending",
+        "color": ""
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Development Help",
+      "contactPreference": "",
+      "tracking": "",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "doc.doc",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "General",
+        "color": "green"
+      },
+      "reason": "Development Help",
+      "contactPreference": "",
+      "tracking": "CXDT1234567800",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "doc.doc",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "",
+      "tracking": "",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "doc.doc",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Development Help",
+      "contactPreference": "",
+      "tracking": "CXDT1234567800",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [],
+      "documentsMissing": [
+        {
+          "name": "Damage photo"
+        },
+        {
+          "name": "Document Name can be long"
+        }
+      ],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "General",
+        "color": "green"
+      },
+      "reason": "Feedback",
+      "tracking": "CXDT1234567800",
+      "contactPreference": "",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [],
+      "documentsMissing": [
+        {
+          "name": "Damage photo"
+        },
+        {
+          "name": "Document Name can be long"
+        }
+      ],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "",
+      "tracking": "",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "General",
+        "color": "green"
+      },
+      "reason": "Feedback",
+      "contactPreference": "",
+      "tracking": "",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "doc.doc",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Pending",
+        "color": ""
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "",
+      "tracking": "CXDT1234567800",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [],
+      "documentsMissing": [
+        {
+          "name": "Damage photo"
+        },
+        {
+          "name": "Document Name can be long"
+        }
+      ],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "",
+      "tracking": "CXDT1234567800",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "doc.doc",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "General",
+        "color": "green"
+      },
+      "reason": "Feedback",
+      "contactPreference": "",
+      "tracking": "",
+      "receivedDate": "",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "name": "doc.doc",
+          "url": ""
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "description": "",
+      "claimDetails": "",
+      "notifyMeForUpdates": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "note": "Note goes here...",
+      "subject": "",
+      "templateName": "Fulfillment Email Template",
+      "templateType": ""
+    },
+    {
+      "note": "Note goes here...",
+      "subject": "",
+      "templateName": "Order Fulfillment Email Template",
+      "templateType": ""
+    },
+    {
+      "note": "Note goes here...",
+      "subject": "",
+      "templateName": "Shipping Email Template",
+      "templateType": ""
+    },
+    {
+      "note": "Note goes here...",
+      "subject": "",
+      "templateName": "Custom Email Template Name",
+      "templateType": ""
+    },
+    {
+      "note": "Note goes here...",
+      "subject": "",
+      "templateName": "Return Email Template",
+      "templateType": ""
+    }
+  ]
+}

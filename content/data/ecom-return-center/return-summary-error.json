@@ -1,0 +1,33 @@
+{
+  "requestId": "1234568",
+  "content": [
+    {
+      "imgPath": "content/images/products/product-4.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "sku": "SKU 12345678",
+      "price": 9098.0,
+      "qty": 1
+    },
+    {
+      "imgPath": "content/images/products/product-3.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "sku": "SKU 12345678",
+      "price": 89098.0,
+      "qty": 2
+    },
+    {
+      "imgPath": "content/images/products/product-2.jpg",
+      "name": "Cosette crystal taper candle holders set of 3",
+      "sku": "SKU 12345678",
+      "price": 505.5,
+      "qty": 2
+    },
+    {
+      "imgPath": "content/images/products/product-1.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "sku": "SKU 12345678",
+      "price": 9098.0,
+      "qty": 2
+    }
+  ]
+}

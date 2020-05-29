@@ -1,0 +1,32 @@
+{
+  "content": [
+    {
+      "name": "Claim Update",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Quote Accepted/Rejected",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Specialty Request Shipment Updates",
+      "system": false,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "POD Received for Work Order",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    }
+  ]
+}

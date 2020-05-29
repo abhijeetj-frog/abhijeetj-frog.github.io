@@ -1,0 +1,152 @@
+{
+  "smallWidgets": [
+    {
+      "label": "SHIPT",
+      "value": "6"
+    },
+    {
+      "label": "Revenue",
+      "value": 500.0,
+      "currency": true
+    },
+    {
+      "label": "Cost",
+      "value": 500.0,
+      "currency": true
+    },
+    {
+      "label": "Gross",
+      "value": 500.0,
+      "currency": true
+    },
+    {
+      "label": "Net",
+      "value": 12269.38,
+      "currency": true,
+      "details": [
+        {
+          "label": "Commission Due",
+          "value": 456.5
+        },
+        {
+          "label": "Operating Expense",
+          "value": 50.5
+        },
+        {
+          "label": "Transactional Fee",
+          "value": 12.5
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "carrierId": "carrierId1",
+      "carrierName": "Carrier Name",
+      "carrierLogo": "content/images/logos/FedEx.png",
+      "collapceData": [
+        {
+          "name": "Express",
+          "shipments": 24,
+          "revenue": 6780.0,
+          "cost": 567.0,
+          "grossProfit": 346.0,
+          "commissions": 567.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        },
+        {
+          "name": "Ground",
+          "shipments": 4,
+          "revenue": 67800.0,
+          "cost": 57.0,
+          "grossProfit": 346.0,
+          "commissions": 567.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "carrierId": "carrierId2",
+      "carrierName": "Carrier Name",
+      "carrierLogo": "content/images/logos/FedEx.png",
+      "collapceData": [
+        {
+          "name": "Express",
+          "shipments": 24,
+          "revenue": 678.0,
+          "cost": 567.0,
+          "grossProfit": 346.0,
+          "commissions": 567.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        },
+        {
+          "name": "Ground",
+          "shipments": 4,
+          "revenue": 6780.0,
+          "cost": 567.0,
+          "grossProfit": 346.0,
+          "commissions": 567.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "carrierId": "carrierId3",
+      "carrierName": "Canada Post (Expedited)",
+      "carrierLogo": "content/images/logos/FedEx.png",
+      "collapceData": [
+        {
+          "name": "Express",
+          "shipments": 24,
+          "revenue": 6780.0,
+          "cost": 567.0,
+          "grossProfit": 346.0,
+          "commissions": 567.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        },
+        {
+          "name": "Ground",
+          "shipments": 4,
+          "revenue": 67800.0,
+          "cost": 567.0,
+          "grossProfit": 346.0,
+          "commissions": 567.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "carrierId": "carrierId4",
+      "carrierName": "Carrier Name",
+      "carrierLogo": "content/images/logos/FedEx.png",
+      "collapceData": [
+        {
+          "name": "Express",
+          "shipments": 24,
+          "revenue": 6700.0,
+          "cost": 567.0,
+          "grossProfit": 346.0,
+          "commissions": 567.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        },
+        {
+          "name": "Ground",
+          "shipments": 4,
+          "revenue": 67000.0,
+          "cost": 567.0,
+          "grossProfit": 346.0,
+          "commissions": 56.0,
+          "netProfit": 567.0,
+          "avgMargin": 12
+        }
+      ]
+    }
+  ]
+}

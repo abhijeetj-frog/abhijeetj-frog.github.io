@@ -1,0 +1,203 @@
+{
+  "content": [
+    {
+      "customerId": "123456",
+      "companyName": "Customer Name",
+      "logo": "",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [],
+      "credit": 300.0,
+      "creditDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "companyName": "Customer Name",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [],
+      "credit": 300.0,
+      "creditDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "companyName": "Customer Name",
+      "logo": "content/images/logos/FedEx.png",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [],
+      "credit": 300.0,
+      "creditDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "companyName": "Customer Name",
+      "logo": "",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [],
+      "credit": 300.0,
+      "creditDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "companyName": "Customer Name",
+      "logo": "content/images/logos/FedEx.png",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [],
+      "credit": 300.0,
+      "creditDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "receivable": 1378.5
+    }
+  ]
+}

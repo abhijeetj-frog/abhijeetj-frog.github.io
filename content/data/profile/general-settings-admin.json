@@ -1,0 +1,40 @@
+{
+  "carrierSettings": [
+    {
+      "carrierName": "FedEx Webservice",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    },
+    {
+      "carrierName": "UPS",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    },
+    {
+      "carrierName": "FedEx Webservice",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    },
+    {
+      "carrierName": "Some Service",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    }
+  ]
+}

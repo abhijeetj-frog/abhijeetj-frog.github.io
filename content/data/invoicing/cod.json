@@ -1,0 +1,105 @@
+{
+  "woId": "BMN-1234567890",
+  "currency": "CAD",
+  "profit": 623.5,
+  "totalAmount": 407000.5,
+  "podSignedBy": "",
+  "podReportTo": "",
+  "podDate": "",
+  "podTime": "",
+  "podInternalComments": "",
+  "chargesOrginalCost": 500.0,
+  "chargesOrginalCharge": 500.0,
+  "chargesFuelCost": 120.0,
+  "chargesFuelCharge": 120.0,
+  "additionalServices": [
+    {
+      "delivery": "Pick Up & Delivery",
+      "deliveryDocs": "Deliver Docs to Terminal",
+      "cost": 500.0,
+      "charge": 600.0,
+      "noOfShipments": "3",
+      "totalPrice": 600.0
+    },
+    {
+      "delivery": "Pick Up & Delivery",
+      "deliveryDocs": "Deliver Docs to Terminal",
+      "cost": 500.0,
+      "charge": 600.0,
+      "noOfShipments": "3",
+      "totalPrice": 600.0
+    }
+  ],
+  "addInSubtotalFlag": true,
+  "subTotal": 154500.0,
+  "taxes": [
+    {
+      "tax": "Tax 1",
+      "taxValue": 0
+    },
+    {
+      "tax": "Tax 2",
+      "taxValue": 0
+    },
+    {
+      "tax": "Tax 3",
+      "taxValue": 0
+    }
+  ],
+  "details": {
+    "service": "LTL",
+    "quote": 789.5,
+    "fromComapnyName": "MacAndrews & Forbes",
+    "fromAddress": "Mississauga, L5B 1B8, CA",
+    "fromDate": "04/28/2018",
+    "toComapnyName": "Company Name",
+    "toAddress": "Mississauga, L5B 1B8, CA",
+    "toDate": "04/28/2018",
+    "package": "Pallet",
+    "quantity": 4,
+    "dimensionWeight": "1 x 1 x 9 in / 4lbs",
+    "dimensionWeightDetais": [
+      {
+        "label": "21x 1 x 9 in (LxWxH)",
+        "value": 7
+      },
+      {
+        "label": "8 x 1 x 9 in",
+        "value": 12
+      },
+      {
+        "label": "1 x 1 x 9 in",
+        "value": 7
+      },
+      {
+        "label": "8 x 1 x 9 in",
+        "value": 23
+      },
+      {
+        "label": "7 x 21 x 4 in",
+        "value": 69
+      },
+      {
+        "label": "8 x 1 x 9 in",
+        "value": 23
+      },
+      {
+        "label": "7 x 21 x 4 in",
+        "value": 69
+      }
+    ],
+    "specialInstructions": "Must be on time"
+  },
+  "documents": [
+    {
+      "link": "",
+      "documentName": "Doc Name",
+      "permission": "Private"
+    },
+    {
+      "link": "",
+      "documentName": "Doc Name",
+      "permission": "Private"
+    }
+  ]
+}

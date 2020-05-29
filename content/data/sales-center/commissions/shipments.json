@@ -1,0 +1,265 @@
+{
+    "widgets": [{
+            "label": "Total Commission",
+            "value": 1233,
+            "currency": true
+        },
+        {
+            "label": "Status",
+            "value": "PENDING"
+        }
+    ],
+    "content": [{
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "EDI",
+                    "type": "brown"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "EDI",
+                    "type": "brown"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "EDI",
+                    "type": "brown"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        },
+        {
+            "id": "234567",
+            "currency": "CAD",
+            "cost": 17.35,
+            "gross": 17.35,
+            "commissionableAmount": 17.35,
+            "totalCommission": 45900.00,
+            "subAgent": {
+                "name": "John Doe",
+                "percentage": "10%"
+            },
+            "numberBox": {
+                "label": "ID Type",
+                "name": "T&T Electronics",
+                "number": "234567",
+                "chip": {
+                    "name": "WO",
+                    "type": "dark-blue"
+                }
+            }
+        }
+    ]
+}

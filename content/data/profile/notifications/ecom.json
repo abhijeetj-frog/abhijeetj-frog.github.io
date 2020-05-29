@@ -1,0 +1,33 @@
+{
+  "newOrder": {
+    "name": "New Order",
+    "system": true,
+    "email": true,
+    "frequency": "Monthly",
+    "active": true
+  },
+  "orderForm": {
+    "notify": "Notify by Every Order",
+    "platform": "",
+    "store": "",
+    "country": ""
+  },
+  "autoFulfilledOrder": {
+    "name": "Auto-fulfilled Order",
+    "system": false,
+    "email": true,
+    "frequency": "Monthly",
+    "active": true
+  },
+  "inventoryRunningLow": {
+    "name": "Inventory Running Low",
+    "system": false,
+    "email": true,
+    "frequency": "Monthly",
+    "active": true
+  },
+  "inventoryForm": {
+    "platform": "",
+    "store": ""
+  }
+}

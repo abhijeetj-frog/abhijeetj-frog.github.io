@@ -1,0 +1,31 @@
+{
+    "salesAgentName": "Bradan",
+    "salesAgentType": "Sub Sales Agent",
+    "address1": "268 Lake Rd",
+    "address2": "Avenue Apartment",
+    "city": "New York",
+    "stateOrProvince": "NY",
+    "zipOrPostal": "10036",
+    "country": "USA",
+    "phoneNumber": "888 000 8888",
+    "email": "braden_bode@yahoo.com",
+
+    "HSTNumber": "",
+    "methodOfPayment": "",
+    "parentSalesAgent": "",
+    "promoCode": "Turab",
+    "promoUrl": "https://eshipper.turab.com",
+
+    "commission": "",
+    "commissionAmount": "",
+
+    "defaultOpExp": "",
+    "opExpPalletShip": "",
+    "opExpPackageShip": "",
+    "opExpPak": "",
+    "opExpSmartEpost": "",
+
+    "transferSalesAgent": "",
+    "includeHistoricalData": false,
+    "transferDate": ""
+}

@@ -1,0 +1,40 @@
+{
+  "subFranchiseOf": "",
+  "paymentNetTerms": "",
+  "paymentNetWarning": "",
+  "paymentDisable": true,
+  "paymentDisableAfter": 30,
+  "useOwnCarrierAccount": true,
+  "useeShipperCarrierAccount": false,
+  "carrierAccountsList": [
+    {
+      "carrierName": "FedEx Webservice",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    },
+    {
+      "carrierName": "UPS",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    }
+  ],
+  "billingTransactional": true,
+  "billingRecurringFee": true,
+  "billingOneTimeFee": true,
+  "transactionalCostType": "",
+  "transactionalTransactionFeeTiers": "",
+  "recurringFeeFrequency": "",
+  "recurringFeeRecurringFee": "",
+  "recurringFeeOriginalLicense": "",
+  "recurringFeeSetupCost": "",
+  "oneTimeFeeOriginalLicense": "",
+  "oneTimeFeeSetupCost": ""
+}

@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "userID": "user1",
+      "userName": "Edgar Willis",
+      "userAvatar": "",
+      "userRole": "Customer Admin",
+      "userEmail": "dariana_altenwerth@heathcote.me",
+      "userPhone": "+1 897 1234 5678",
+      "userMarkup": "",
+      "active": false
+    },
+    {
+      "userID": "user2",
+      "userName": "Chris Walton",
+      "userAvatar": "content/images/user.png",
+      "userRole": "User Role",
+      "userEmail": "dariana_altenwerth@heathcote.me",
+      "userPhone": "+1 897 1234 5678",
+      "userMarkup": "",
+      "active": false
+    },
+    {
+      "userID": "user3",
+      "userName": "Estella Spencer",
+      "userAvatar": "",
+      "userRole": "User Role",
+      "userEmail": "dariana_altenwerth@heathcote.me",
+      "userPhone": "+1 897 1234 5678",
+      "userMarkup": "",
+      "active": true
+    },
+    {
+      "userID": "user2",
+      "userName": "Chris Walton",
+      "userAvatar": "content/images/user.png",
+      "userRole": "User Role",
+      "userEmail": "dariana_altenwerth@heathcote.me",
+      "userPhone": "+1 897 1234 5678",
+      "userMarkup": "",
+      "active": false
+    },
+    {
+      "userID": "user3",
+      "userName": "Estella Spencer",
+      "userAvatar": "",
+      "userRole": "User Role",
+      "userEmail": "dariana_altenwerth@heathcote.me",
+      "userPhone": "+1 897 1234 5678",
+      "userMarkup": "",
+      "active": true
+    },
+    {
+      "userID": "user2",
+      "userName": "Chris Walton",
+      "userAvatar": "content/images/user.png",
+      "userRole": "User Role",
+      "userEmail": "dariana_altenwerth@heathcote.me",
+      "userPhone": "+1 897 1234 5678",
+      "userMarkup": "",
+      "active": false
+    },
+    {
+      "userID": "user3",
+      "userName": "Estella Spencer",
+      "userAvatar": "",
+      "userRole": "User Role",
+      "userEmail": "dariana_altenwerth@heathcote.me",
+      "userPhone": "+1 897 1234 5678",
+      "userMarkup": "",
+      "active": true
+    }
+  ]
+}

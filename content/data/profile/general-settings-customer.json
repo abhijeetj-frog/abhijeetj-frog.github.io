@@ -1,0 +1,56 @@
+{
+  "shipment": {
+    "defaultPackageType": "Envelope",
+    "defaultPickupLocation": "Value",
+    "insuranceType": "eShipper",
+    "signatureRequired": ["No", "Adult"],
+    "addResidentialByDefaultFlag": false,
+    "batchShippingFlag": false
+  },
+  "invoiceTax": {
+    "invoiceTaxCurrency": "CAD",
+    "generateInvoicesPer": "Per Shipment",
+    "chargeLevel": "",
+    "taxId": "00000",
+    "invoiceEmail": [],
+    "refCodeMandatoryFlag": false,
+    "inBondCustomerFlag": false,
+    "applyTaxFlag": false
+  },
+  "customBrokerInfo": {
+    "brokerCompanyName": "Contact Name",
+    "taxId": "00000",
+    "brokerContactName": "",
+    "brokerEmail": "",
+    "brokerPhoneNumber": ""
+  },
+  "referenceCodes": {
+    "reference1": "",
+    "reference2": "",
+    "reference3": ""
+  },
+  "carrierSettings": [
+    {
+      "carrierName": "FedEx Webservice",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    },
+    {
+      "carrierName": "UPS",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    }
+  ],
+  "printSettings": {
+    "autoSizeFlag": false,
+    "shippingLabelSize": "Regular Printer (8 x 11)"
+  }
+}

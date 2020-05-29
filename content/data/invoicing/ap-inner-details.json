@@ -1,0 +1,48 @@
+{
+  "id": "#123456",
+  "payee": "Hybrid Logistics Solutions Inc",
+  "payeeCategory": "Settlement",
+  "dateCreated": "04/28/2018",
+  "payment": "Check",
+  "paymentId": "124567890",
+  "lastPaymentDate": "04/28/2018",
+  "paymentAmount": 500,
+  "amountPaid": 1456.5,
+  "creditNote": 500,
+  "totalAmount": 407000.5,
+  "currency": "CAD",
+  "balanceDue": 123100.0,
+  "status": {
+    "name": "Partially paid",
+    "color": "red"
+  },
+  "dateSubmitted": "04/28/2018",
+  "dueDate": "05/28/2018",
+  "creditFlag": true,
+  "creditLabelAmount": 300.0,
+  "creditNoteFlag": true,
+  "disputeFlag": false,
+  "subTotal": 154500.0,
+  "invoices": [
+    {
+      "id": "416713344 1-01",
+      "invoicedDate": "04/28/2018",
+      "comment": "Pay ASAP",
+      "total": 578.5
+    }
+  ],
+  "taxes": [
+    {
+      "tax": "Tax 1",
+      "taxValue": 0
+    },
+    {
+      "tax": "Tax 2",
+      "taxValue": 0
+    },
+    {
+      "tax": "Tax 3",
+      "taxValue": 0
+    }
+  ]
+}

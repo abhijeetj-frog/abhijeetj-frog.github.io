@@ -1,0 +1,132 @@
+{
+  "requestId": "0987654321",
+  "content": [
+    {
+      "imgPath": "content/images/products/product-4.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "reason": "Reason Goes here",
+      "qty": 9,
+      "status": "Replace"
+    },
+    {
+      "imgPath": "content/images/products/product-3.jpg",
+      "name": "Cosette crystal taper candle holders set of 3",
+      "reason": "Reason Goes here",
+      "qty": 9,
+      "status": "Replace"
+    }
+  ],
+  "shipping": {
+    "method": "My Own Shipping Label",
+    "weight": "999",
+    "weightUnit": "kg",
+    "unit": "cm",
+    "tracking": "",
+    "qty": "2",
+    "box": [
+      {
+        "length": "10",
+        "width": "8",
+        "height": "6"
+      },
+      {
+        "length": "10",
+        "width": "8",
+        "height": "6"
+      }
+    ],
+    "rate": [
+      {
+        "image": "content/images/logos/DHL.png",
+        "title": "DHL",
+        "description": "Worldwide Express Plus",
+        "date": "40 Est. Days",
+        "value": 249.25,
+        "details": [
+          {
+            "label": "Base Charge",
+            "value": 456.5
+          },
+          {
+            "label": "Border Fee",
+            "value": 50.5
+          },
+          {
+            "label": "Other (16%)",
+            "value": 12.5
+          },
+          {
+            "label": "Fuel Surcharges",
+            "value": 90.2
+          },
+          {
+            "label": "HST (13 %)",
+            "value": 78.34
+          }
+        ],
+        "selected": false
+      },
+      {
+        "image": "content/images/logos/DHL.png",
+        "title": "DHL",
+        "description": "Standard",
+        "date": "20 Est. Days",
+        "value": 2469.25,
+        "details": [
+          {
+            "label": "Base Charge",
+            "value": 456.5
+          },
+          {
+            "label": "Border Fee",
+            "value": 50.5
+          },
+          {
+            "label": "Other (16%)",
+            "value": 12.5
+          },
+          {
+            "label": "Fuel Surcharges",
+            "value": 90.2
+          },
+          {
+            "label": "HST (13 %)",
+            "value": 78.34
+          }
+        ],
+        "selected": false
+      },
+      {
+        "image": "content/images/logos/DHL.png",
+        "title": "DHL",
+        "description": "Worldwide Express Plus",
+        "date": "40 Est. Days",
+        "value": 500.25,
+        "details": [
+          {
+            "label": "Base Charge",
+            "value": 456.5
+          },
+          {
+            "label": "Border Fee",
+            "value": 50.5
+          },
+          {
+            "label": "Other (16%)",
+            "value": 12.5
+          },
+          {
+            "label": "Fuel Surcharges",
+            "value": 90.2
+          },
+          {
+            "label": "HST (13 %)",
+            "value": 78.34
+          }
+        ],
+        "selected": false
+      }
+    ],
+    "agree": false
+  }
+}

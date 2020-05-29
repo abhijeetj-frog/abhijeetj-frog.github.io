@@ -1,0 +1,76 @@
+{
+  "details": {
+    "orderId": "2",
+    "fulfillmenStatus": "Partial",
+    "paymentStatus": "Unpaid",
+    "note": "Going Wireless With apple airpod, qhho adfafdsl",
+    "noOfProducts": 2,
+    "promotionCode": "",
+    "products": [
+      {
+        "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+        "imgPath": "content/images/products/product-1.jpg",
+        "description": "description1",
+        "price": 500.5,
+        "amount": 500.5,
+        "quantity": 1,
+        "sku": "SKU 12345678"
+      },
+      {
+        "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+        "imgPath": "content/images/products/product-2.jpg",
+        "description": "description1",
+        "price": 89098,
+        "amount": 898098,
+        "quantity": 2,
+        "sku": "SKU 12345678"
+      },
+      {
+        "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+        "imgPath": "content/images/products/product-3.jpg",
+        "description": "description1",
+        "price": 89098.9,
+        "amount": 8980.98,
+        "quantity": 2,
+        "sku": "SKU 12345678"
+      },
+      {
+        "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+        "imgPath": "content/images/products/product-4.jpg",
+        "description": "description1",
+        "price": 890,
+        "amount": 8980.98,
+        "quantity": 2,
+        "sku": "SKU 12345678"
+      },
+      {
+        "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+        "imgPath": "content/images/products/product-1.jpg",
+        "description": "description1",
+        "price": 123,
+        "amount": 2341.9,
+        "quantity": 4,
+        "sku": "SKU 12345678"
+      }
+    ]
+  },
+  "shippingInfo": {
+    "carrier": "content/images/logos/ups.png",
+    "carrierService": "Express International Parcel",
+    "tracking": "",
+    "platform": "Shopify",
+    "fees": 789900,
+    "packageType": "Pallet",
+    "quantity": 2,
+    "createdDate": "22/12/2019",
+    "storeName": "ABC"
+  },
+  "customerInfo": {
+    "name": "Anthony Wilgeorwiseceol",
+    "email": "anthony@gmail.com",
+    "phone": "111-060-9732",
+    "shippingAddress": "700 Mitchell Flats Suite 253, Mississauga, L5B 1B8, CA",
+    "billingAddress": "Same as shipping address"
+  },
+  "tags": ["Tag A", "Tag can be long", "Tag 3"]
+}

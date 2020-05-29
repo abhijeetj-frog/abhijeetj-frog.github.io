@@ -1,0 +1,647 @@
+{
+    "content": [{
+            "customerId": "123456",
+            "customerName": "Sunlight International",
+            "logo": "",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "",
+            "created": "09/28/2019",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 12,
+            "chip": {
+                "name": "TRF",
+                "type": "light-blue"
+            },
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Canadian Parking Equipment Ltd",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": true,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 14,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Company Name",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 12,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Centre Japonais De La Photo",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": true,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 12,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Advanced Office Solutions",
+            "logo": "",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Hybrid Logistics Solutions Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Magnate Shipping Lines Montreal Limited",
+            "logo": "",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": true,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Magnate Shipping Lines Toronto Limited",
+            "logo": "content/images/logos/DHL.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": true,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "Air Canada",
+            "logo": "",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 15,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "123456",
+            "customerName": "3C Complete Computer Consulting Inc",
+            "logo": "content/images/logos/ups.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "09/28/2019",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+  "confirm": {
+    "number": "Tracking# 5097557",
+    "text": "Your order is Confirmed."
+  },
+  "company": {
+    "name": "UPS",
+    "logo": "/content/images/logos/ups.png",
+    "info": "Worldwide Express Plus"
+  },
+  "paymentInfo": [
+    {
+      "label": "Payment Type",
+      "value": "Third Party"
+    },
+    {
+      "label": "Base Charge",
+      "value": 205.07,
+      "currency": true
+    },
+    {
+      "label": "Fuel Charge",
+      "value": 205.07,
+      "currency": true
+    },
+    {
+      "label": "HST",
+      "value": 205.07,
+      "currency": true
+    },
+    {
+      "active": true,
+      "label": "Total Charge",
+      "value": 1205.07,
+      "currency": true
+    }
+  ],
+  "creditCardInfo": [
+    {
+      "label": "Auth #",
+      "value": "123456"
+    },
+    {
+      "label": "Credit Card",
+      "value": "**** **** **** 1111"
+    },
+    {
+      "label": "Reference #",
+      "value": "0685519"
+    },
+    {
+      "label": "Date",
+      "value": "04/28/2018"
+    },
+    {
+      "label": "Amount",
+      "value": 30.92,
+      "currency": true
+    },
+    {
+      "active": true,
+      "label": "Status",
+      "value": "Success"
+    }
+  ],
+  "documentsList": [
+    {
+      "name": "Shipping Label",
+      "url": ""
+    },
+    {
+      "name": "Custom Invoice",
+      "url": ""
+    },
+    {
+      "name": "Receipt",
+      "url": ""
+    }
+  ],
+  "from": {
+    "label": "From",
+    "title": "MacAndrews & Forbes Holdings",
+    "description": "4 Chome-8-２４ Kudanminami, Chiyoda-ku, Tōkyō-to 102-0074, Japan",
+    "secondDescription": "04/28/2018"
+  },
+  "fromContact": {
+    "label": "Contact",
+    "title": "Marian Gray",
+    "description": "matteo.krajcik@reynolds.io",
+    "secondDescription": "641-146-0234"
+  },
+  "to": {
+    "label": "To",
+    "title": "Statbucks Canada",
+    "description": "16 Bloor St W, Toronto, ON M6P 1A7, Canada",
+    "secondDescription": "04/28/2018"
+  },
+  "toContact": {
+    "label": "Contact",
+    "title": "Marian Gray",
+    "description": "matteo.krajcik@reynolds.io",
+    "secondDescription": "641-146-0234"
+  },
+  "additionalInfo": [
+    {
+      "label": "Type",
+      "value": "Packages"
+    },
+    {
+      "label": "Qty",
+      "value": 6
+    },
+    {
+      "label": "Size & Weight",
+      "value": "2 x 1 x 2  / 4",
+      "info": {
+        "title": "Dimension Details",
+        "moreData": [
+          {
+            "label": "21x 1 x 9 in (LxWxH)",
+            "value": "7 lbs"
+          },
+          {
+            "label": "8 x 1 x 9 in ",
+            "value": "12 lbs"
+          },
+          {
+            "label": "1 x 1 x 9 in ",
+            "value": "7 lbs"
+          },
+          {
+            "label": "8 x 1 x 9 in ",
+            "value": "23 lbs"
+          },
+          {
+            "label": "7 x 21 x 4 in ",
+            "value": "69 lbs"
+          },
+          {
+            "label": "8 x 1 x 9 in ",
+            "value": "23 lbs"
+          },
+          {
+            "label": "7 x 21 x 4 in ",
+            "value": "69 lbs"
+          },
+          {
+            "divider": true,
+            "label": "",
+            "value": ""
+          },
+          {
+            "active": true,
+            "label": "Total Weight",
+            "value": "256.50 lbs"
+          }
+        ]
+      }
+    },
+    {
+      "label": "COD",
+      "value": 12.0,
+      "currency": true
+    },
+    {
+      "label": "Insurance",
+      "value": 10000.0,
+      "currency": true
+    },
+    {
+      "label": "DG",
+      "value": "None",
+      "infoTooltip": "Info tooltip"
+    },
+    {
+      "label": "Signature",
+      "value": "No"
+    },
+    {
+      "label": "Pick Up",
+      "value": "WXZ1234567890"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+    "widgets": [{
+            "label": "Total Commission",
+            "value": 1233,
+            "currency": true
+        },
+        {
+            "label": "Total Paid Commission",
+            "value": 1567,
+            "currency": true
+        },
+        {
+            "label": "Total Unpaid Commission",
+            "value": 1237,
+            "currency": true
+        }
+    ],
+    "content": [{
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Pending",
+                "color": "black"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "id": "234567",
+            "agent": "Shane Friedman",
+            "workOrders": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "totalDetails": [{
+                    "label": "Total OP Expense",
+                    "value": 456.00
+                },
+                {
+                    "label": "Total Transaction Fees",
+                    "value": 0.00
+                }
+            ],
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        }
+    ]
+}

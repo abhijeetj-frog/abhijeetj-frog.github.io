@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "ruleName": "Free Return within USA",
+      "descripton": "Ship with any carrier of your choice · Return to a retail store, Cost is Hidden",
+      "allStores": true,
+      "enable": false,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Return Rule name",
+      "descripton": "Ship with any carrier of your choice · Cost is Free",
+      "allStores": true,
+      "enable": true,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Return Rule name",
+      "descripton": "Ship with any carrier of your choice · Cost is Free",
+      "allStores": true,
+      "enable": false,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Free Return within USA",
+      "descripton": "Ship with any carrier of your choice · Return to a retail store, Cost is Hidden",
+      "allStores": true,
+      "enable": false,
+      "ecomStoresId": [1, 2, 3]
+    },
+    {
+      "ruleName": "Free Return within USA",
+      "descripton": "Ship with any carrier of your choice · Return to a retail store, Cost is Hidden",
+      "allStores": true,
+      "enable": false,
+      "ecomStoresId": [1, 2, 3]
+    }
+  ]
+}

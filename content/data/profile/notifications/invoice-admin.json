@@ -1,0 +1,11 @@
+{
+  "content": [
+    {
+      "name": "Invoice Payment Received ( Paid by Checks or EFT)",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    }
+  ]
+}

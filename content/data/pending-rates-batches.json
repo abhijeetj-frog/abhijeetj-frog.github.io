@@ -1,0 +1,146 @@
+{
+  "content": [
+    {
+      "id": "1",
+      "numberBox": {
+        "label": "",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": ""
+      },
+      "pendingDistributor": "Landon Daniels",
+      "pendingShipments": 57,
+      "pendingInfoError": 0,
+      "pendingRateError": 0,
+      "pendingTotal": 0,
+      "pendingTotalDetails": [],
+      "status": {
+        "name": "Processing",
+        "color": "blue"
+      },
+      "selected": false
+    },
+    {
+      "id": "2",
+      "numberBox": {
+        "label": "",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "pendingDistributor": "Landon Daniels",
+      "pendingShipments": 27,
+      "pendingInfoError": 0,
+      "pendingRateError": 0,
+      "pendingTotal": 0,
+      "pendingTotalDetails": [],
+      "status": {
+        "name": "",
+        "color": ""
+      },
+      "selected": false
+    },
+    {
+      "id": "3",
+      "numberBox": {
+        "label": "",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "pendingDistributor": "Landon Daniels",
+      "pendingShipments": 73,
+      "pendingInfoError": 0,
+      "pendingRateError": 9,
+      "pendingTotal": 0,
+      "pendingTotalDetails": [],
+      "status": {
+        "name": "Processing",
+        "color": "blue"
+      },
+      "selected": false
+    },
+    {
+      "id": "4",
+      "numberBox": {
+        "label": "",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": ""
+      },
+      "pendingDistributor": "Landon Daniels",
+      "pendingShipments": 17,
+      "pendingInfoError": 0,
+      "pendingRateError": 0,
+      "pendingTotal": 1896.5,
+      "pendingTotalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "",
+        "color": ""
+      },
+      "selected": false
+    },
+    {
+      "id": "5",
+      "numberBox": {
+        "label": "",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": ""
+      },
+      "pendingDistributor": "Landon Daniels",
+      "pendingShipments": 98,
+      "pendingInfoError": 0,
+      "pendingRateError": 0,
+      "pendingTotal": 1896.5,
+      "pendingTotalDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": {
+        "name": "",
+        "color": ""
+      },
+      "selected": false
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "woInvoiceId": "#12345678",
+    "dateCreated": "04/22/2019",
+    "activityType": "Edit Charges",
+    "comment": "Life is full of surprise.",
+    "activityData": {
+      "checkNo": "",
+      "currency": "",
+      "amount": ""
+    }
+  },
+  {
+    "woInvoiceId": "#12345678",
+    "dateCreated": "04/22/2019",
+    "activityType": "Submit Invoice",
+    "comment": "",
+    "activityData": {
+      "checkNo": "",
+      "currency": "",
+      "amount": ""
+    }
+  },
+  {
+    "woInvoiceId": "#12345678",
+    "dateCreated": "04/22/2019",
+    "activityType": "Edit Charges",
+    "comment": "The Power Of Your Dreams",
+    "activityData": {
+      "checkNo": "",
+      "currency": "",
+      "amount": ""
+    }
+  },
+  {
+    "woInvoiceId": "#12345678",
+    "dateCreated": "04/22/2019",
+    "activityType": "Payment Received",
+    "comment": "",
+    "activityData": {
+      "checkNo": "#1234567890",
+      "currency": "CAD",
+      "amount": 88500.0
+    }
+  },
+  {
+    "woInvoiceId": "#12345678",
+    "dateCreated": "04/22/2019",
+    "activityType": "Edit Charges",
+    "comment": "Fuel increase",
+    "activityData": {
+      "checkNo": "",
+      "currency": "",
+      "amount": ""
+    }
+  },
+  {
+    "woInvoiceId": "#12345678",
+    "dateCreated": "04/22/2019",
+    "activityType": "Payment Received",
+    "comment": "Life is full of surprise.",
+    "activityData": {
+      "checkNo": "#1234567890",
+      "currency": "CAD",
+      "amount": 88500.0
+    }
+  }
+]

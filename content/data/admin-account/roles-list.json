@@ -1,0 +1,3811 @@
+{
+  "content": [
+    {
+      "sectionTitle": "Section Title",
+      "rolesList": [
+        {
+          "roleId": "roleId1",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId2",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId3",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId4",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId5",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId6",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId7",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId8",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Section Title",
+      "rolesList": [
+        {
+          "roleId": "roleId1",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId2",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId3",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId4",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId5",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId6",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId7",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId8",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Section Title",
+      "rolesList": [
+        {
+          "roleId": "roleId1",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId2",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId3",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId4",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId5",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId6",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId7",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roleId": "roleId8",
+          "roleName": "Users Roles",
+          "permissions": [
+            {
+              "sectionPermissionsId": "permissionId1",
+              "nameSectionPermissions": "Shipping",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId2",
+              "nameSectionPermissions": "Tracking",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId3",
+              "nameSectionPermissions": "Invocing",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId4",
+              "nameSectionPermissions": "Sales center",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId5",
+              "nameSectionPermissions": "Account management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId6",
+              "nameSectionPermissions": "Support & Claim management",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId7",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            },
+            {
+              "sectionPermissionsId": "permissionId8",
+              "nameSectionPermissions": "Permission Catalog",
+              "sectionPermissions": false,
+              "subPermissions": [
+                {
+                  "permissionA": false
+                },
+                {
+                  "permissionB": false
+                },
+                {
+                  "permissionC": false
+                },
+                {
+                  "permissionD": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

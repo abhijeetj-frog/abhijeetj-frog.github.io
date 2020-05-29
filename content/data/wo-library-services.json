@@ -1,0 +1,53 @@
+{
+  "content": [
+    {
+      "subService": "Service Name",
+      "service": "Value",
+      "mapping": "Freight or Base",
+      "cost": 96.5,
+      "charge": 196.5
+    },
+    {
+      "subService": "Service Name",
+      "service": "Value",
+      "mapping": "Freight or Base",
+      "cost": 96.5,
+      "charge": 196.5
+    },
+    {
+      "subService": "Service Name",
+      "service": "Value",
+      "mapping": "Freight or Base",
+      "cost": 96.5,
+      "charge": 196.5
+    },
+    {
+      "subService": "Service Name",
+      "service": "Value",
+      "mapping": "Freight or Base",
+      "cost": 96.5,
+      "charge": 196.5
+    },
+    {
+      "subService": "Service Name",
+      "service": "Value",
+      "mapping": "Freight or Base",
+      "cost": 96.5,
+      "charge": 196.5
+    },
+    {
+      "subService": "Service Name",
+      "service": "Value",
+      "mapping": "Freight or Base",
+      "cost": 96.5,
+      "charge": 196.5
+    },
+    {
+      "subService": "Service Name",
+      "service": "Value",
+      "mapping": "Freight or Base",
+      "cost": 96.5,
+      "charge": 196.5
+    }
+  ]
+}

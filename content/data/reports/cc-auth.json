@@ -1,0 +1,171 @@
+{
+  "widgets": [
+    {
+      "label": "Authorized",
+      "value": 121.5,
+      "currency": true
+    },
+    {
+      "label": "Void",
+      "value": 12269.38,
+      "currency": true
+    },
+    {
+      "label": "Refunded",
+      "value": 89736.78,
+      "currency": true
+    },
+    {
+      "label": "Declined",
+      "value": 128196.45,
+      "currency": true
+    },
+    {
+      "label": "Processed",
+      "value": 19355318.62,
+      "currency": true
+    }
+  ],
+  "content": [
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Declined",
+        "color": "red"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Authorized",
+        "color": "blue"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Processed",
+        "color": "blue"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Processed",
+        "color": "blue"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 345889000.0,
+      "status": {
+        "name": "Processed",
+        "color": "blue"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Declined",
+        "color": "red"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Authorized",
+        "color": "blue"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Processed",
+        "color": "blue"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Void",
+        "color": "blue"
+      }
+    },
+    {
+      "orderId": "XYZ1234567890",
+      "authId": "013115",
+      "receiptId": "CWW12345678901234567890",
+      "customer": "Duonamic Technology Inc",
+      "chargeType": "Order",
+      "entityType": "Order",
+      "currency": "CAD",
+      "amount": 407000.5,
+      "status": {
+        "name": "Refunded",
+        "color": "green"
+      }
+    }
+  ]
+}

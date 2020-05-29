@@ -1,0 +1,45 @@
+[
+  {
+    "label": "TOT SHIPT",
+    "value": 90
+  },
+  {
+    "label": "Domestic",
+    "value": 246
+  },
+  {
+    "label": "International",
+    "value": 12
+  },
+  {
+    "label": "Submitted",
+    "value": 246
+  },
+  {
+    "label": "Total (CAD)",
+    "value": 3715.07,
+    "currency": true,
+    "details": [
+      {
+        "label": "Base Charge",
+        "value": 456.5
+      },
+      {
+        "label": "Border Fee",
+        "value": 50.5
+      },
+      {
+        "label": "Other (16%)",
+        "value": 12.5
+      },
+      {
+        "label": "Fuel Surcharges",
+        "value": 90.2
+      },
+      {
+        "label": "HST (13 %)",
+        "value": 78.34
+      }
+    ]
+  }
+]

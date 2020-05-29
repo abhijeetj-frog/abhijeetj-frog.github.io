@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "payeeType": "",
+  "payee": "",
+  "payeeCategory": "",
+  "payment": "",
+
+  "dateCreated": "",
+  "paymentId": "",
+  "paymentAmount": 0,
+  "amountPaid": 0,
+  "creditNote": 0,
+  "totalAmount": 0,
+  "currency": "CAD",
+  "balanceDue": 0,
+  "paymentStatus": "",
+  "dateSubmitted": "",
+  "dueDate": "",
+  "creditFlag": true,
+  "creditLabelAmount": 300,
+  "creditNoteFlag": true,
+  "disputeFlag": false,
+  "subTotal": 0,
+  "invoices": [
+    {
+      "id": "",
+      "invoicedDate": "",
+      "comment": "",
+      "total": 0
+    }
+  ],
+  "taxes": [
+    {
+      "tax": "Tax 1",
+      "taxValue": 0
+    },
+    {
+      "tax": "Tax 2",
+      "taxValue": 0
+    },
+    {
+      "tax": "Tax 3",
+      "taxValue": 0
+    }
+  ],
+  "creditNotesHistory": [
+    {
+      "id": "#123456789",
+      "invoiceId": "#123456789",
+      "currency": "CAD",
+      "amount": 200,
+      "newAmount": 0
+    },
+    {
+      "id": "#123456789",
+      "invoiceId": "#123456789",
+      "currency": "CAD",
+      "amount": 100,
+      "newAmount": 0
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "track": "CX1234567890",
+  "chip": {
+    "name": "eCom",
+    "type": "purple"
+  },
+  "pathToDetails": "/customer/tracking/order-details",
+  "path": [
+    {
+      "position": "Label Ready",
+      "state": true
+    },
+    {
+      "position": "Pickup",
+      "state": true
+    },
+    {
+      "position": "In Transit",
+      "state": true
+    },
+    {
+      "position": "Delivered",
+      "state": false
+    }
+  ],
+  "locations": [
+    {
+      "name": "Location",
+      "logo": "content/images/logos/DHL.png",
+      "link": "https://www.ups.com/track?loc=en_CA&requester=WT/",
+      "date": "01/13/2019",
+      "time": "20:45",
+      "state": true,
+      "current": false
+    },
+    {
+      "name": "Location",
+      "logo": "",
+      "link": "",
+      "date": "01/16/2019",
+      "time": "20:45",
+      "state": true,
+      "current": false
+    },
+    {
+      "name": "Location",
+      "logo": "",
+      "link": "",
+      "date": "01/20/2019",
+      "time": "20:45",
+      "state": true,
+      "current": false
+    },
+    {
+      "name": "Carrier Sorting Hub",
+      "logo": "content/images/logos/ups.png",
+      "link": "https://www.ups.com/track?loc=en_CA&requester=WT/",
+      "date": "01/28/2019",
+      "time": "20:45",
+      "state": true,
+      "current": true
+    },
+    {
+      "name": "Location",
+      "logo": "",
+      "link": "",
+      "date": "",
+      "time": "",
+      "state": false,
+      "current": false
+    },
+    {
+      "name": "Location",
+      "logo": "",
+      "link": "",
+      "date": "",
+      "time": "",
+      "state": false,
+      "current": false
+    },
+    {
+      "name": "Location",
+      "logo": "",
+      "date": "",
+      "time": "",
+      "state": false,
+      "current": false
+    }
+  ]
+}

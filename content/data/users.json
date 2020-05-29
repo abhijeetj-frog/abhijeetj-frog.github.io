@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Tom Molotko",
+    "account": "admin",
+    "position": "Admin",
+    "adminFlag": true,
+    "avatar": "content/images/tom.png",
+    "profile": "/admin/profile",
+    "email": "admin@email.com"
+  },
+  {
+    "id": "2",
+    "name": "Robert Thompson",
+    "account": "customer",
+    "position": "Customer",
+    "adminFlag": false,
+    "avatar": "",
+    "profile": "/customer/profile",
+    "email": "customer@email.com"
+  },
+  {
+    "id": "3",
+    "name": "Benjamin Murphy",
+    "account": "superadmin",
+    "position": "Super Admin",
+    "adminFlag": true,
+    "avatar": "",
+    "profile": "/super-admin/profile",
+    "email": "admin@email.com"
+  }
+]

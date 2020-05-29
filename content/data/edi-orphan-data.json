@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "numberBox": {
+        "label": "EDI Order",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "carrierInvoice": "XR-123456789012345678",
+      "trans": "1234567890",
+      "selected": false
+    },
+    {
+      "numberBox": {
+        "label": "EDI Order",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "carrierInvoice": "XR-123456789012345678",
+      "trans": "1234567890",
+      "selected": false
+    },
+    {
+      "numberBox": {
+        "label": "EDI Order",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "carrierInvoice": "XR-123456789012345678",
+      "trans": "1234567890",
+      "selected": false
+    },
+    {
+      "numberBox": {
+        "label": "EDI Order",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "carrierInvoice": "XR-123456789012345678",
+      "trans": "1234567890",
+      "selected": false
+    },
+    {
+      "numberBox": {
+        "label": "EDI Order",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "carrierInvoice": "XR-123456789012345678",
+      "trans": "1234567890",
+      "selected": false
+    },
+    {
+      "numberBox": {
+        "label": "EDI Order",
+        "name": "Express",
+        "number": "1234567890",
+        "logo": "content/images/logos/ups.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "carrierInvoice": "XR-123456789012345678",
+      "trans": "1234567890",
+      "selected": false
+    }
+  ]
+}

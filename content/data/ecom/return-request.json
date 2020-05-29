@@ -1,0 +1,147 @@
+{
+  "content": [
+    {
+      "id": "Request 0000987",
+      "imgPath": "content/images/products/product-1.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "brokenDescription": "Comment goes here, 3 Simple Ways To Save A Bunch Of Money When Buying A New Computer.",
+      "brokenPhotos": [
+        {
+          "imageName": "Product 1",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        }
+      ],
+      "requested": 8,
+      "received": 0,
+      "replace": 0,
+      "refund": 0,
+      "total": 0,
+      "resolution": "Replace",
+      "aStatus": false,
+      "status": ""
+    },
+    {
+      "id": "Request 0000987",
+      "imgPath": "content/images/products/product-2.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "brokenDescription": "Comment goes here, 3 Simple Ways To Save A Bunch Of Money When Buying A New Computer.",
+      "brokenPhotos": [
+        {
+          "imageName": "Product 1",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        }
+      ],
+      "requested": 8,
+      "received": 6,
+      "replace": 8,
+      "refund": 0,
+      "total": 0,
+      "resolution": "",
+      "aStatus": true,
+      "status": ""
+    },
+    {
+      "id": "Request 0000987",
+      "imgPath": "content/images/products/product-3.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "brokenDescription": "Comment goes here, 3 Simple Ways To Save A Bunch Of Money When Buying A New Computer, How To Put Movies On Iphone.",
+      "brokenPhotos": [
+        {
+          "imageName": "Product 1",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 1",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        }
+      ],
+      "requested": 8,
+      "received": 6,
+      "replace": 0,
+      "refund": 8,
+      "total": 576.9,
+      "resolution": "",
+      "aStatus": true,
+      "status": ""
+    },
+    {
+      "id": "Request 0000987",
+      "imgPath": "content/images/products/product-1.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "brokenDescription": "Choosing The Best Audio Player Software For Your Computer.",
+      "brokenPhotos": [
+        {
+          "imageName": "Product 1",
+          "imagePath": "content/images/products/product.jpg"
+        }
+      ],
+      "requested": 8,
+      "received": 6,
+      "replace": 0,
+      "refund": 8,
+      "total": 576.9,
+      "resolution": "",
+      "aStatus": false,
+      "status": "Refunded"
+    },
+    {
+      "id": "Request 0000987",
+      "imgPath": "content/images/products/product-4.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "brokenDescription": "Comment goes here, 3 Simple Ways To Save A Bunch Of Money When Buying A New Computer.",
+      "brokenPhotos": [
+        {
+          "imageName": "Product 1",
+          "imagePath": "content/images/products/product.jpg"
+        }
+      ],
+      "requested": 8,
+      "received": 0,
+      "replace": 0,
+      "refund": 0,
+      "total": 0,
+      "resolution": "Replace",
+      "aStatus": true,
+      "status": "Rejected"
+    }
+  ],
+  "details": {
+    "order": "AUV123456789012",
+    "tracking": "XYZ1234567890123456",
+    "submited": "03/27/2017"
+  },
+  "customer": {
+    "name": "Anthony Wilgeorwiseceol",
+    "email": "brigitte_eichmann@mafalda.me",
+    "phone": "111-060-9732",
+    "shipping": "700 Mitchell Flats Suite 253, Mississauga, L5B 1B8, CA"
+  }
+}

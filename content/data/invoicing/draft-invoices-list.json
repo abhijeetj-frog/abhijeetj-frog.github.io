@@ -1,0 +1,404 @@
+{
+  "content": [
+    {
+      "id": "di1",
+      "new": true,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "Magnate Shipping Lines Limited - Montreal",
+      "invoicePrefix": "",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 3,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di2",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "Magnate Shipping Lines Limited",
+      "invoicePrefix": "WO",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 3,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di3",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "Alto Canada",
+      "invoicePrefix": "",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 14,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di4",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "3C Complete Computer Consulting Inc",
+      "invoicePrefix": "",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 5,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di5",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "3C Complete Computer Consulting Inc",
+      "invoicePrefix": "",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 6,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di6",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "Customer Name",
+      "invoicePrefix": "",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 10,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di7",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "Magnate Shipping Lines Montreal Limited",
+      "invoicePrefix": "WO",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 3,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di8",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "Baskeli account",
+      "invoicePrefix": "WO",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 3,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    },
+    {
+      "id": "di9",
+      "new": false,
+      "link": "/admin/invoicing/draft-invoice",
+      "companyName": "Anandani Couriers and Cargo c/o CWS",
+      "invoicePrefix": "",
+      "dateCreated": "04/28/2018",
+      "noOfShipments": 7,
+      "totalAmount": 407000.5,
+      "currency": "CAD",
+      "totalDetails": [
+        {
+          "label": "Total Cost",
+          "value": 456.5
+        },
+        {
+          "label": "Charge",
+          "value": 50.5
+        },
+        {
+          "label": "Subtotal",
+          "value": 507
+        },
+        {
+          "label": "Tax",
+          "value": 90.2
+        },
+        {
+          "label": "Taxes",
+          "value": 178.34
+        }
+      ],
+      "profit": 623.5,
+      "selected": false,
+
+      "balanceDue": "unexpected",
+      "workOrdertype": "unexpected",
+      "dateSubmitted": "unexpected",
+      "dueDate": "unexpected",
+      "lastPaymentDate": "unexpected",
+      "PaymentStatus": "unexpected"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "pageSize": 20,
+    "pageNumber": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 3,
+  "totalPages": 1,
+  "last": true,
+  "size": 20,
+  "number": 0,
+  "numberOfElements": 3,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "first": true
+}

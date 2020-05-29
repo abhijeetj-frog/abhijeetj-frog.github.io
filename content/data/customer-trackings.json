@@ -1,0 +1,262 @@
+{
+  "content": [
+    {
+      "id": "12345",
+      "new": true,
+      "logo": "content/images/logos/ups.png",
+      "trakingLabel": "Tracking",
+      "trakingName": "Express",
+      "trakingNumber": "1234567890",
+      "chip": {
+        "name": "SP",
+        "type": "light-blue"
+      },
+      "fromCompanyName": "Name",
+      "fromCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "toDate": "04/28/2018",
+      "cost": 1896.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "id": "12345",
+      "new": false,
+      "logo": "",
+      "trakingLabel": "Tracking",
+      "trakingName": "Express",
+      "trakingNumber": "1234567890",
+      "chip": {
+        "name": "eCom",
+        "type": "purple"
+      },
+      "fromCompanyName": "Name",
+      "fromCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "toDate": "04/28/2018",
+      "cost": 189.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": "Label Ready",
+      "statusColor": ""
+    },
+    {
+      "id": "12345",
+      "new": false,
+      "logo": "content/images/logos/ups.png",
+      "trakingLabel": "Tracking",
+      "trakingName": "Express",
+      "trakingNumber": "1234567890",
+      "chip": {
+        "name": "Quick",
+        "type": "orange"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "toDate": "04/28/2018",
+      "cost": 189.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "id": "12345",
+      "new": false,
+      "logo": "content/images/logos/ups.png",
+      "trakingLabel": "Tracking",
+      "trakingName": "Express",
+      "trakingNumber": "1234567890",
+      "chip": {
+        "name": "",
+        "type": ""
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "toDate": "04/28/2018",
+      "cost": 189.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": "Delivered",
+      "statusColor": "green"
+    },
+    {
+      "id": "12345",
+      "new": false,
+      "logo": "",
+      "trakingLabel": "Tracking",
+      "trakingName": "Express",
+      "trakingNumber": "1234567890",
+      "chip": {
+        "name": "",
+        "type": ""
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "toDate": "04/28/2018",
+      "cost": 189.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": "Pick Up",
+      "statusColor": "blue"
+    },
+    {
+      "id": "12345",
+      "new": false,
+      "logo": "",
+      "trakingLabel": "Tracking",
+      "trakingName": "Express",
+      "trakingNumber": "1234567890",
+      "chip": {
+        "name": "",
+        "type": ""
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Mississauga, L5B 1B8, CA",
+      "toDate": "04/28/2018",
+      "cost": 189.5,
+      "costDetails": [
+        {
+          "label": "Base Charge",
+          "value": 456.5
+        },
+        {
+          "label": "Border Fee",
+          "value": 50.5
+        },
+        {
+          "label": "Other (16%)",
+          "value": 12.5
+        },
+        {
+          "label": "Fuel Surcharges",
+          "value": 90.2
+        },
+        {
+          "label": "HST (13 %)",
+          "value": 78.34
+        }
+      ],
+      "status": "Delivered",
+      "statusColor": "green"
+    }
+  ]
+}

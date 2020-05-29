@@ -1,0 +1,145 @@
+{
+  "confirm": {
+    "number": "Tracking# 5097557",
+    "text": "Your order is Confirmed."
+  },
+  "carrierIconPath": "/content/images/logos/ups.png",
+  "carrierName": "UPS",
+  "carrierService": "Worldwide Express Plus",
+  "fromCompanyName": "MacAndrews & Forbes Holdings",
+  "fromCompanyAddress": "4 Chome-8-２４ Kudanminami, Chiyoda-ku, Tōkyō-to 102-0074, Japan",
+  "fromDate": "04/28/2018",
+  "fromContactName": "Marian Gray",
+  "fromContactEmail": "matteo.krajcik@reynolds.io",
+  "fromContactPhone": "641-146-0234",
+  "toCompanyName": "Statbucks Canada",
+  "toCompanyAddress": "16 Bloor St W, Toronto, ON M6P 1A7, Canada",
+  "toDate": "04/28/2018",
+  "toContactName": "Marian Gray",
+  "toContactEmail": "matteo.krajcik@reynolds.io",
+  "toContactPhone": "641-146-0234",
+  "packageType": "Packages",
+  "quantity": 6,
+  "shippingSizeWeight": "2 x 1 x 2  / 4",
+  "shippingSizeWeightInfo": [
+    {
+      "label": "21x 1 x 9 in (LxWxH)",
+      "value": "7 lbs"
+    },
+    {
+      "label": "8 x 1 x 9 in ",
+      "value": "12 lbs"
+    },
+    {
+      "label": "1 x 1 x 9 in ",
+      "value": "7 lbs"
+    },
+    {
+      "label": "8 x 1 x 9 in ",
+      "value": "23 lbs"
+    },
+    {
+      "label": "7 x 21 x 4 in ",
+      "value": "69 lbs"
+    },
+    {
+      "label": "8 x 1 x 9 in ",
+      "value": "23 lbs"
+    },
+    {
+      "label": "7 x 21 x 4 in ",
+      "value": "69 lbs"
+    },
+    {
+      "divider": true
+    },
+    {
+      "active": true,
+      "label": "Total Weight",
+      "value": "256.50 lbs"
+    }
+  ],
+  "shippingCod": 12.0,
+  "shippingInsurance": 10000.0,
+  "shippingDg": "None",
+  "shippingDgInfo": "Info tooltip",
+  "shippingSignature": "No",
+  "shippingPickUp": "WXZ1234567890",
+  "products": [
+    {
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "imgPath": "content/images/products/product-1.jpg",
+      "description": "description1",
+      "price": 500.5,
+      "amount": 500.5,
+      "quantity": 1,
+      "sku": "SKU 12345678",
+      "filePath": "/"
+    },
+    {
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "imgPath": "content/images/products/product-2.jpg",
+      "description": "description1",
+      "price": 89098,
+      "amount": 898098,
+      "quantity": 2,
+      "sku": "SKU 12345678",
+      "filePath": "/"
+    },
+    {
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "imgPath": "content/images/products/product-3.jpg",
+      "description": "description1",
+      "price": 89098.9,
+      "amount": 8980.98,
+      "quantity": 2,
+      "sku": "SKU 12345678",
+      "filePath": "/"
+    },
+    {
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "imgPath": "content/images/products/product-4.jpg",
+      "description": "description1",
+      "price": 890,
+      "amount": 8980.98,
+      "quantity": 2,
+      "sku": "SKU 12345678",
+      "filePath": "/"
+    },
+    {
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "imgPath": "content/images/products/product-1.jpg",
+      "description": "description1",
+      "price": 123,
+      "amount": 2341.9,
+      "quantity": 4,
+      "sku": "SKU 12345678",
+      "filePath": ""
+    }
+  ],
+  "paymentMethod": "Third Party",
+  "paymentBaseCharge": 205.07,
+  "paymentFuelCharge": 205.07,
+  "paymentHst": 205.07,
+  "paymentTotalCharge": 1205.07,
+  "creditCardAuth": "123456",
+  "creditCardNumber": "**** **** **** 1111",
+  "creditCardReference": "0685519",
+  "creditCardDate": "04/28/2018",
+  "creditCardAmount": 30.92,
+  "creditCardStatus": "Success",
+  "documentsList": [
+    {
+      "name": "Shipping Label",
+      "url": ""
+    },
+    {
+      "name": "Custom Invoice",
+      "url": ""
+    },
+    {
+      "name": "Receipt",
+      "url": ""
+    }
+  ]
+}

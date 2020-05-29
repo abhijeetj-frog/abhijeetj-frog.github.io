@@ -1,0 +1,92 @@
+{
+  "content": [
+    {
+      "name": "In Transit",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "New Scan (while in transit)",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Cancelled",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Delivered",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Exception",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Return Shipment Activated",
+      "info": "Return Shipment Activated",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Claim Update",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Quote Received for Specialty Request",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Specialty Request Shipment Updates ",
+      "info": "Specialty Request Shipment Updates",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Specialty Request Quote Expired (30 days)",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "POD Received for Specialty Request",
+      "info": "",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    }
+  ]
+}

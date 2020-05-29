@@ -1,0 +1,314 @@
+{
+  "content": [
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "All Printing Resources Ltd",
+      "currency": "CAD",
+      "invoices": 6,
+      "deposit": 0,
+      "depositDetails": [],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Canadian Parking Equipment Ltd",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Anandani Couriers and Cargo c/o CWS",
+      "currency": "CAD",
+      "invoices": 13,
+      "deposit": 0,
+      "depositDetails": [],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Antech Diagnostics (formerly Bio Phase Diagnostic Lab)",
+      "currency": "CAD",
+      "invoices": 7,
+      "deposit": 0,
+      "depositDetails": [],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Customer Name",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "credit": 300.0,
+      "creditDetails": [
+        {
+          "amount": 500.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 500.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 500.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Able Lock Service Lmited",
+      "currency": "CAD",
+      "invoices": 31,
+      "deposit": 0,
+      "depositDetails": [],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "NIHON AUTO PARTS INC",
+      "currency": "CAD",
+      "invoices": 23,
+      "deposit": 500.0,
+      "depositDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Hybrid Logistics Solutions Inc",
+      "currency": "CAD",
+      "invoices": 31,
+      "deposit": 0,
+      "depositDetails": [],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Bisan Trading & Industrial Serv.Inc",
+      "currency": "CAD",
+      "invoices": 20,
+      "deposit": 500.0,
+      "depositDetails": [
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 150.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 200.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "credit": 0,
+      "creditDetails": [],
+      "receivable": 1378.5
+    },
+    {
+      "customerId": "123456",
+      "logo": "content/images/logos/FedEx.png",
+      "companyName": "Magnate Shipping Lines Limited",
+      "currency": "CAD",
+      "invoices": 7,
+      "deposit": 0,
+      "depositDetails": [],
+      "credit": 300.0,
+      "creditDetails": [
+        {
+          "amount": 500.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 500.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        },
+        {
+          "amount": 500.0,
+          "paymentDetails": {
+            "currency": "CAD",
+            "paymentType": "Cheque",
+            "checkNo": "#1234567890",
+            "paidDate": "04/22/2019"
+          }
+        }
+      ],
+      "receivable": 1378.5
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "pageSize": 20,
+    "pageNumber": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 3,
+  "totalPages": 1,
+  "last": true,
+  "size": 20,
+  "number": 0,
+  "numberOfElements": 3,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "first": true
+}

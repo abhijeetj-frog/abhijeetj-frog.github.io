@@ -1,0 +1,31 @@
+{
+  "carrierSettings": [
+    {
+      "carrierName": "FedEx Webservice",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    },
+    {
+      "carrierName": "UPS",
+      "region": "Region",
+      "accountOwner": "Own Account",
+      "accountNumber": "",
+      "meterNumber": "",
+      "key": "",
+      "password": ""
+    }
+  ],
+  "reportSettings": {
+    "taxRevenue": false,
+    "customerValue": false,
+    "orderValue": false,
+    "shipmentValue": false,
+    "returnValues": false,
+    "packageStatistic": false,
+    "conversionReport": false
+  }
+}

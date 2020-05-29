@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Financial",
+    "color": "light-blue"
+  },
+  {
+    "name": "Donations",
+    "color": "purple"
+  },
+  {
+    "name": "Settlement",
+    "color": "green"
+  },
+  {
+    "name": "Consultants",
+    "color": "orange"
+  },
+  {
+    "name": "Freight",
+    "color": "red"
+  },
+  {
+    "name": "Commissions",
+    "color": "brown"
+  },
+  {
+    "name": "Maintenance",
+    "color": "dark-blue"
+  }
+]

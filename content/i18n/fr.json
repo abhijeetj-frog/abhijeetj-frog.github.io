@@ -1,0 +1,155 @@
+{
+    "DASHBOARD": {
+        "HELLO": "Hello welcome!1"
+    },
+    "COMMISSION": {
+        "LIST_HEADERS": {
+            "ID_TYPE": "ID Type1",
+            "AGENT": "Agent1",
+            "WORK_ORDER": "Work Orders1",
+            "CREATED": "Created1",
+            "TOTAL": "Total Amount1"
+        },
+        "FILTER": {
+            "AGENT": "Sales Agent1",
+            "CARRIER": "Carrier1",
+            "CARRIER_SERVICE": "Carrier Service1",
+            "STATUS": "Status1",
+            "CURRENCY": "Currency1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_FILITER": "Filiter1"
+        },
+        "ACCEPT_REJECT_DIALOG": {
+            "TITLE": "Commission Report1",
+            "AGENT": "Sales Agent1",
+            "AMOUNT": "Amount1",
+            "COMMENT": "Comment1",
+            "REASON": "Please select an appropriate reason1",
+            "NOTIFY_AGENT": "Notify agent by Email1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_ACCEPT": "Accept1",
+            "BTN_REJECT": "Reject1"
+        },
+        "CREATE_COMMISSION_REPORT_DIALOG": {
+            "TITLE": "Create Commission Report1",
+            "AGENT": "Sales Agent1",
+            "CUT_OFF_DATE": "Cut off date1",
+            "COMMENT": "Additional Comment1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_CREATE": "Create1"
+        },
+        "SHIPMENT_LIST_HEADERS": {
+            "ID_TYPE": "ID Type1",
+            "COST": "Cost1",
+            "GROSS": "Gross1",
+            "AMOUNT": "Commissionable Amount1",
+            "TOTAL": "Total Commission1",
+            "SUB_AGENT": "Sub Agent1"
+        },
+        "WORK_ORDER": {
+            "FROM": "From1"
+        },
+        "BUTTONS": {
+            "ACCEPT": "Accept1",
+            "REJECT": "Reject1"
+        },
+        "COMMISSION_DETAILS": "Comission Details1"
+    },
+    "SALES": {
+        "LIST_HEADERS": {
+            "AGENT_NAME": "Sales Agent Name1",
+            "COMM": "Comm %1",
+            "CUST": "Cust1",
+            "CREATED": "Created1",
+            "PROMO_CODE": "Promo Code1",
+            "SALES_URL": "Sales URL1",
+            "PARENT_AGENT": "Parent Agent1",
+            "SUB_SALES_AGENT": "Sub Sales Agent1"
+        },
+        "FILTER": {
+            "TITLE": "Filters1",
+            "AGENT_TYPE": "Agent Type1",
+            "COMM": "Comm %1",
+            "PARENT_AGENT": "Parent Agent1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_FILITER": "Filiter1"
+        },
+        "DOT_MENU": {
+            "ACTIVE": "Active1",
+            "EDIT": "Edit1",
+            "DELETE": "Delete1"
+        }
+    },
+    "AFFILIATE": {
+        "AFF_CUST_LIST_HEADERS": {
+            "AFF_CUST": "Aff. Customer1",
+            "DATE_CREATED": "Date Created1",
+            "CONTACT": "Contact1",
+            "EMAIL": "Email1"
+        },
+        "LIST_HEADERS": {
+            "AFF_NAME": "Affiliate Name1",
+            "REPORT_NO": "Report No1",
+            "NO_SHIPMENTS": "No of Shipments1",
+            "CREATED": "Created1",
+            "TOTAL": "Total Amount1"
+        },
+        "FILTER": {
+            "AGENT": "Sales Agent1",
+            "CARRIER": "Carrier1",
+            "CARRIER_SERVICE": "Carrier Service1",
+            "STATUS": "Status1",
+            "CURRENCY": "Currency1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_FILITER": "Filiter1"
+        },
+        "REJECT_DIALOG": {
+            "TITLE": "Payment1",
+            "AMOUNT": "Total Amount1",
+            "COMMENT": "Additional Comment1",
+            "NOTIFY_AGENT": "Notify the user1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_REJECT": "Reject1"
+        },
+        "CREATE_PAYMENT_REQUEST_DIALOG": {
+            "TITLE": "Create Payment Request1",
+            "AFFILIATE": "Affiliate1",
+            "CUT_OFF_DATE": "Cut off date1",
+            "CURRENCY": "Currency1",
+            "TOTAL_AMOUNT": "Total Amount1",
+            "AFF_NAME": "Affiliate Name1",
+            "NO_OF_SHIPMENTS": "No of Shipments1",
+            "NO_OF_CUST": "No of Customers1",
+            "NOTIFY": "Notify the user1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_NEXT": "Next1",
+            "BTN_CONFIRM": "Confirm1"
+        },
+        "NEW_AFFILIATE_DIALOG": {
+            "TITLE": "Create New Affiliate1",
+            "AFF_PARENT": "Affiliate (Parent)1",
+            "AFF_CUST": "Affiliated Customer1",
+            "COMM_PERCENTAGE": "Commission Percentage1",
+            "DATE": "Date1",
+            "PROMO_CODE": "Promo Code1",
+            "PROMO_URL": "Promo URL1",
+            "PREF_PAYMENT_METHOD": "Preferred Payment Method1",
+            "NOTIFY": "Notify User1",
+            "BTN_CANCEL": "Cancel1",
+            "BTN_CREATE": "Create1"
+        },
+        "SHIPMENT_LIST_HEADERS": {
+            "SHIP_ID": "Shipment ID1",
+            "FREIGHT_CHARGE": "Freight Charge1",
+            "TOTAL_SHIPMENT_CHARGE": "Tot. Shipment Charge1",
+            "GROSS_PROFIT": "Gross Profit1",
+            "AFF_COMM": "Aff. Comm1",
+            "PROFIT": "Profit1",
+            "AFF_CUST": "Aff. Customer1"
+        },
+        "BUTTONS": {
+            "ACCEPT": "Accept1",
+            "REJECT": "Reject1"
+        }
+    }
+}

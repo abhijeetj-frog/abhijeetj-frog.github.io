@@ -1,0 +1,68 @@
+{
+    "content": [{
+            "affName": "Parking Equipment Ltd",
+            "reportNo": 1185035808,
+            "noOfShipments": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "affName": "Parking Equipment Ltd",
+            "reportNo": 1185035808,
+            "noOfShipments": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "affName": "Parking Equipment Ltd",
+            "reportNo": 1185035808,
+            "noOfShipments": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "affName": "Parking Equipment Ltd",
+            "reportNo": 1185035808,
+            "noOfShipments": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "status": {
+                "name": "Accepted",
+                "color": "blue"
+            }
+        },
+        {
+            "affName": "Parking Equipment Ltd",
+            "reportNo": 1185035808,
+            "noOfShipments": 118,
+            "created": "12/11/2019",
+            "currency": "CAD",
+            "selected": false,
+            "totalAmount": 45900.00,
+            "status": {
+                "name": "Pending",
+                "color": "black"
+            }
+        }
+    ]
+}

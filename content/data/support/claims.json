@@ -1,0 +1,337 @@
+{
+  "content": [
+    {
+      "id": "1",
+      "new": true,
+      "marker": "red",
+      "selected": false,
+      "numberBox": {
+        "label": "Claim",
+        "name": "Starbucks Canada",
+        "subName": "Express",
+        "number": "WXD1234567890",
+        "logo": "content/images/logos/DHL.png",
+        "type": {
+          "name": "",
+          "color": ""
+        }
+      },
+      "insuredInfo": "Insured",
+      "reason": "Service Failure",
+      "submitedDate": "03/03/2017",
+      "trans": "WXZV12345678",
+      "charge": 89098.0,
+      "total": 89098.0,
+      "status": {
+        "name": "In Process",
+        "color": ""
+      },
+      "receivedDate": "03/03/2017",
+      "mailedDate": "03/03/2017",
+      "solution": "Refund via Check",
+      "assignTo": "Clifford Mitchell",
+      "statusAlert": "03/03/2017",
+      "tracking": "CXDT1234567800",
+      "description": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain.",
+      "carrierRefundCurrency": "CAD",
+      "carrierClaim": "000000005555",
+      "carrierRefundStatus": "Denied",
+      "carrierRefundAmount": 500,
+      "carrierRefundCheckNumber": "000000005555",
+      "carrierRefundCheck": 500,
+      "carrierRefundDate": "03/03/2017",
+      "eShipperRefundCurrency": "CAD",
+      "eShipperRefundAmount": 432,
+      "eShipperRefundCheck": "000000005555",
+      "eShipperRefundDate": "03/03/2017",
+      "comments": [
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        },
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        }
+      ],
+      "notifyCustomerForUpdates": false
+    },
+    {
+      "id": "2",
+      "new": false,
+      "marker": "red",
+      "selected": false,
+      "numberBox": {
+        "label": "Claim",
+        "name": "Starbucks Canada",
+        "subName": "Express",
+        "number": "WXD1234567890",
+        "logo": "content/images/logos/DHL.png",
+        "type": {
+          "name": "",
+          "color": ""
+        }
+      },
+      "insuredInfo": "",
+      "reason": "Service Failure",
+      "submitedDate": "03/03/2017",
+      "trans": "WXZV12345678",
+      "charge": 89098.0,
+      "total": 89098.0,
+      "status": {
+        "name": "In Process",
+        "color": ""
+      },
+      "receivedDate": "03/03/2017",
+      "mailedDate": "03/03/2017",
+      "solution": "Refund via Check",
+      "assignTo": "Clifford Mitchell",
+      "statusAlert": "03/03/2017",
+      "tracking": "CXDT1234567800",
+      "description": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain.",
+      "carrierRefundCurrency": "CAD",
+      "carrierClaim": "000000005555",
+      "carrierRefundStatus": "Denied",
+      "carrierRefundAmount": 500,
+      "carrierRefundCheckNumber": "000000005555",
+      "carrierRefundCheck": 500,
+      "carrierRefundDate": "03/03/2017",
+      "eShipperRefundCurrency": "CAD",
+      "eShipperRefundAmount": 432,
+      "eShipperRefundCheck": "000000005555",
+      "eShipperRefundDate": "03/03/2017",
+      "comments": [
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        }
+      ],
+      "notifyCustomerForUpdates": false
+    },
+    {
+      "id": "3",
+      "new": false,
+      "marker": "yellow",
+      "selected": false,
+      "numberBox": {
+        "label": "Claim",
+        "name": "Starbucks Canada",
+        "subName": "Express",
+        "number": "WXD1234567890",
+        "logo": "content/images/logos/DHL.png",
+        "type": {
+          "name": "",
+          "color": ""
+        }
+      },
+      "insuredInfo": "",
+      "reason": "Service Failure",
+      "submitedDate": "03/03/2017",
+      "trans": "WXZV12345678",
+      "charge": 89098.0,
+      "total": 89098.0,
+      "status": {
+        "name": "Approved",
+        "color": "green"
+      },
+      "receivedDate": "03/03/2017",
+      "mailedDate": "03/03/2017",
+      "solution": "Refund via Check",
+      "assignTo": "Clifford Mitchell",
+      "statusAlert": "03/03/2017",
+      "tracking": "CXDT1234567800",
+      "description": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain.",
+      "carrierRefundCurrency": "CAD",
+      "carrierClaim": "000000005555",
+      "carrierRefundStatus": "Denied",
+      "carrierRefundAmount": 500,
+      "carrierRefundCheckNumber": "000000005555",
+      "carrierRefundCheck": 500,
+      "carrierRefundDate": "03/03/2017",
+      "eShipperRefundCurrency": "CAD",
+      "eShipperRefundAmount": 432,
+      "eShipperRefundCheck": "000000005555",
+      "eShipperRefundDate": "03/03/2017",
+      "comments": [
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        }
+      ],
+      "notifyCustomerForUpdates": false
+    },
+    {
+      "id": "4",
+      "new": false,
+      "marker": "green",
+      "selected": false,
+      "numberBox": {
+        "label": "Claim",
+        "name": "Starbucks Canada",
+        "subName": "Express",
+        "number": "WXD1234567890",
+        "logo": "content/images/logos/DHL.png",
+        "type": {
+          "name": "",
+          "color": ""
+        }
+      },
+      "insuredInfo": "Insured",
+      "reason": "Service Failure",
+      "submitedDate": "03/03/2017",
+      "trans": "WXZV12345678",
+      "charge": 89098.0,
+      "total": 89098.0,
+      "status": {
+        "name": "In Process",
+        "color": ""
+      },
+      "receivedDate": "03/03/2017",
+      "mailedDate": "03/03/2017",
+      "solution": "Refund via Check",
+      "assignTo": "Clifford Mitchell",
+      "statusAlert": "03/03/2017",
+      "tracking": "CXDT1234567800",
+      "description": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain.",
+      "carrierRefundCurrency": "CAD",
+      "carrierClaim": "000000005555",
+      "carrierRefundStatus": "Denied",
+      "carrierRefundAmount": 500,
+      "carrierRefundCheckNumber": "000000005555",
+      "carrierRefundCheck": 500,
+      "carrierRefundDate": "03/03/2017",
+      "eShipperRefundCurrency": "CAD",
+      "eShipperRefundAmount": 432,
+      "eShipperRefundCheck": "000000005555",
+      "eShipperRefundDate": "03/03/2017",
+      "comments": [
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        }
+      ],
+      "notifyCustomerForUpdates": false
+    },
+    {
+      "id": "5",
+      "new": false,
+      "marker": "",
+      "selected": false,
+      "numberBox": {
+        "label": "Claim",
+        "name": "Starbucks Canada",
+        "subName": "Express",
+        "number": "WXD1234567890",
+        "logo": "content/images/logos/DHL.png",
+        "type": {
+          "name": "",
+          "color": ""
+        }
+      },
+      "insuredInfo": "Insured",
+      "reason": "Service Failure",
+      "submitedDate": "03/03/2017",
+      "trans": "WXZV12345678",
+      "charge": 89098.0,
+      "total": 89098.0,
+      "status": {
+        "name": "Denied",
+        "color": "red"
+      },
+      "receivedDate": "03/03/2017",
+      "mailedDate": "03/03/2017",
+      "solution": "Refund via Check",
+      "assignTo": "Clifford Mitchell",
+      "statusAlert": "03/03/2017",
+      "tracking": "CXDT1234567800",
+      "description": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain.",
+      "carrierRefundCurrency": "CAD",
+      "carrierClaim": "000000005555",
+      "carrierRefundStatus": "Denied",
+      "carrierRefundAmount": 500,
+      "carrierRefundCheckNumber": "000000005555",
+      "carrierRefundCheck": 500,
+      "carrierRefundDate": "03/03/2017",
+      "eShipperRefundCurrency": "CAD",
+      "eShipperRefundAmount": 432,
+      "eShipperRefundCheck": "000000005555",
+      "eShipperRefundDate": "03/03/2017",
+      "comments": [
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        },
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        }
+      ],
+      "notifyCustomerForUpdates": false
+    },
+    {
+      "id": "6",
+      "new": false,
+      "marker": "",
+      "selected": false,
+      "numberBox": {
+        "label": "Claim",
+        "name": "Starbucks Canada",
+        "subName": "Express",
+        "number": "WXD1234567890",
+        "logo": "content/images/logos/DHL.png",
+        "type": {
+          "name": "",
+          "color": ""
+        }
+      },
+      "insuredInfo": "",
+      "reason": "Service Failure",
+      "submitedDate": "03/03/2017",
+      "trans": "WXZV12345678",
+      "charge": 89098.0,
+      "total": 89098.0,
+      "status": {
+        "name": "In Process",
+        "color": ""
+      },
+      "receivedDate": "03/03/2017",
+      "mailedDate": "03/03/2017",
+      "solution": "Refund via Check",
+      "assignTo": "Clifford Mitchell",
+      "statusAlert": "03/03/2017",
+      "tracking": "CXDT1234567800",
+      "description": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain.",
+      "carrierRefundCurrency": "CAD",
+      "carrierClaim": "000000005555",
+      "carrierRefundStatus": "Denied",
+      "carrierRefundAmount": 500,
+      "carrierRefundCheckNumber": "000000005555",
+      "carrierRefundCheck": 500,
+      "carrierRefundDate": "03/03/2017",
+      "eShipperRefundCurrency": "CAD",
+      "eShipperRefundAmount": 432,
+      "eShipperRefundCheck": "000000005555",
+      "eShipperRefundDate": "03/03/2017",
+      "comments": [
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        },
+        {
+          "type": "In Process",
+          "date": "04/22/2019",
+          "comment": "Hypnosis And Nlp In The Management Of Pain, Hypnosis And Nlp In The Management Of Pain."
+        }
+      ],
+      "notifyCustomerForUpdates": false
+    }
+  ]
+}

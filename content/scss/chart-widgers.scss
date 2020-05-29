@@ -1,0 +1,67 @@
+@import 'var';
+
+gridster {
+  &.gridster-widgets {
+    display: block;
+    margin: -16px -16px 32px;
+    background: none;
+    width: auto !important;
+
+    .gridster-column {
+      border-left: 1px solid $widgetGridBorderColor;
+      border-right: 1px solid $widgetGridBorderColor;
+    }
+
+    .gridster-row {
+      border-top: 1px solid $widgetGridBorderColor;
+      border-bottom: 1px solid $widgetGridBorderColor;
+    }
+
+    .chart-wrap {
+      width: 100%;
+      min-height: 100%;
+      padding-bottom: 24px;
+    }
+
+    .dashboard-card {
+      border-radius: $cardRadius;
+
+      .chart-filter {
+        height: 48px;
+      }
+
+      .dashboard-card-header {
+        height: 48px;
+        padding: 0 12px 0 24px;
+        display: flex;
+        align-items: center;
+
+        .drag-handle {
+          cursor: move;
+        }
+
+        h3 {
+          padding: 12px 0;
+          margin: 0;
+          line-height: 24px;
+          font-size: 14px;
+          font-weight: 500;
+          letter-spacing: 1px;
+          text-transform: uppercase;
+          @include text-overflow();
+        }
+      }
+
+      .dashboard-card-content {
+        height: calc(100% - 48px);
+        padding: 0 24px;
+        box-sizing: border-box;
+      }
+    }
+
+    &.mobile {
+      overflow-y: visible;
+      height: auto !important;
+    }
+  }
+}

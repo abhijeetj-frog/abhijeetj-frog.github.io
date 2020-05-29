@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "id": "1",
+      "numberBox": {
+        "label": "Tracking",
+        "name": "Custom File Name",
+        "number": "1234567890",
+        "logo": ""
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "errors": 3,
+      "selected": false
+    },
+    {
+      "id": "2",
+      "numberBox": {
+        "label": "Tracking",
+        "name": "Custom File Name",
+        "number": "1234567890",
+        "logo": "content/images/logos/DHL.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "errors": 0,
+      "selected": false
+    },
+    {
+      "id": "3",
+      "numberBox": {
+        "label": "Tracking",
+        "name": "Custom File Name",
+        "number": "1234567890",
+        "logo": "content/images/logos/DHL.png"
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "errors": 5,
+      "selected": false
+    },
+    {
+      "id": "4",
+      "numberBox": {
+        "label": "Tracking #",
+        "name": "Custom File Name",
+        "number": "1234567890",
+        "logo": ""
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "errors": 3,
+      "selected": false
+    },
+    {
+      "id": "5",
+      "numberBox": {
+        "label": "Tracking #",
+        "name": "Custom File Name",
+        "number": "1234567890",
+        "logo": ""
+      },
+      "from": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "to": {
+        "companyName": "Company Name",
+        "companyAddress": "Mississauga, L5B 1B8, CA",
+        "date": "04/28/2018"
+      },
+      "errors": 1,
+      "selected": false
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "smallWidgets": [
+    {
+      "label": "SHIPT",
+      "value": 8973
+    },
+    {
+      "label": "Cost",
+      "value": 355318.62,
+      "currency": true
+    },
+    {
+      "label": "Charge",
+      "value": 355318.62,
+      "currency": true
+    },
+    {
+      "label": "Profit",
+      "value": 355318.62,
+      "currency": true
+    },
+    {
+      "label": "Revenue",
+      "value": 355318.62,
+      "currency": true
+    }
+  ],
+  "content": [
+    {
+      "id": "id1",
+      "name": "Franchise Name",
+      "logo": "content/images/franchise.png",
+      "collapceData": [
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        },
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "id": "id2",
+      "name": "Franchise Name",
+      "logo": "content/images/franchise.png",
+      "collapceData": [
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        },
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "id": "id3",
+      "name": "Franchise Name",
+      "logo": "content/images/franchise.png",
+      "collapceData": [
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        },
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "id": "id4",
+      "name": "Franchise Name",
+      "logo": "content/images/franchise.png",
+      "collapceData": [
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        },
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "id": "id5",
+      "name": "Franchise Name",
+      "logo": "content/images/franchise.png",
+      "collapceData": [
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        },
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "id": "id6",
+      "name": "Franchise Name",
+      "logo": "content/images/franchise.png",
+      "collapceData": [
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        },
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        }
+      ]
+    },
+    {
+      "id": "id7",
+      "name": "Franchise Name",
+      "logo": "content/images/franchise.png",
+      "collapceData": [
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        },
+        {
+          "name": "Franchise",
+          "shipments": 400,
+          "revenue": 23932.0,
+          "cost": 231.9,
+          "grossProfit": 123.09,
+          "commissions": 154.98,
+          "netProfit": 123.44,
+          "avgMargin": 12
+        }
+      ]
+    }
+  ]
+}

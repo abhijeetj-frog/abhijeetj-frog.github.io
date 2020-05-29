@@ -1,0 +1,55 @@
+{
+  "ruleName": "Free Return within USA",
+  "storeId": 1,
+  "enable": true,
+  "currencyId": 0,
+  "autoShip": false,
+  "returnDocument": false,
+  "conditions": [
+    {
+      "parameter": "Locations are",
+      "value": {
+        "locations": ["USA", "CA"],
+        "product": "",
+        "criteria": "",
+        "sign": "",
+        "signValue": ""
+      },
+      "attribute": "",
+      "order": 0
+    },
+    {
+      "parameter": "Customs value is",
+      "value": {
+        "locations": [],
+        "product": "",
+        "criteria": "",
+        "sign": "Over",
+        "signValue": "500"
+      },
+      "attribute": "",
+      "order": 0
+    },
+    {
+      "parameter": "Order contains",
+      "value": {
+        "locations": [],
+        "product": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+        "criteria": "Amount",
+        "sign": "Over",
+        "signValue": "500"
+      },
+      "attribute": "",
+      "order": 0
+    }
+  ],
+  "actions": {
+    "name": "",
+    "order": 0,
+    "returnMethod": "Return to the store",
+    "returnCost": "Prepaid Label (Free)",
+    "approvalProcess": "Auto Accept",
+    "processFee": "30.00",
+    "currencyId": 1
+  }
+}

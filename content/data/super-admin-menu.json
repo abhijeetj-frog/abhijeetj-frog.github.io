@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "Dashboard",
+    "icon": "icon-outline-dashboard",
+    "path": "/super-admin/dashboard",
+    "inner": []
+  },
+  {
+    "id": "2",
+    "name": "Franchises",
+    "icon": "icon-outline-account_box",
+    "path": "/super-admin/franchises",
+    "inner": []
+  },
+  {
+    "id": "3",
+    "name": "Tracking",
+    "icon": "icon-outline-explore",
+    "path": "/super-admin/tracking",
+    "inner": []
+  },
+  {
+    "id": "4",
+    "name": "Reports",
+    "icon": "icon-trending_up",
+    "path": "/super-admin/revenue-profit-report",
+    "inner": [
+      {
+        "id": "4_1",
+        "name": "Revenue & Profit",
+        "path": "/super-admin/revenue-profit-report"
+      },
+      {
+        "id": "4_2",
+        "name": "Insurance",
+        "path": "/super-admin/insurance"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Log Out",
+    "icon": "icon-power_settings_new",
+    "path": "/",
+    "inner": []
+  }
+]

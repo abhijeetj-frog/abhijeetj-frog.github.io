@@ -1,0 +1,105 @@
+ @import 'src/content/scss/var.scss';
+
+ .when-list {
+   margin-left: -24px;
+   margin-right: -24px;
+   width: auto;
+
+   @media only screen and (max-width: 991px) {
+     margin-left: -16px;
+     margin-right: -16px;
+   }
+
+   .add-btn {
+     &.mat-icon-button {
+       margin-left: 16px;
+
+       @media only screen and (max-width: 991px) {
+         margin-left: 8px;
+       }
+     }
+   }
+
+   .dynamic-list-item {
+     padding-left: 24px;
+     padding-right: 48px;
+
+     @media only screen and (max-width: 991px) {
+       padding-left: 16px;
+     }
+
+     .delete-btn {
+       right: 12px;
+       margin: 0;
+       top: 12px;
+
+       @media only screen and (max-width: 991px) {
+         right: 4px;
+       }
+     }
+
+     &:first-child {
+       .delete-btn {
+         top: 4px;
+       }
+     }
+
+     &:not(:first-child) {
+       padding-top: 8px;
+       border-top: 1px solid $borderColor;
+     }
+
+     .col-2 {
+       &:first-child {
+         min-width: 160px;
+       }
+     }
+
+     .product-col {
+       min-width: 420px;
+
+       @media only screen and (max-width: 520px) {
+         width: 100%;
+         min-width: 10px;
+       }
+     }
+
+     @media only screen and (max-width: 1120px) {
+       .col-1 {
+         &.short-col {
+           width: 15%;
+           min-width: 128px;
+         }
+       }
+
+       .col-2 {
+         &.short-col {
+           width: 20%;
+           min-width: 160px;
+         }
+       }
+     }
+
+     @media only screen and (max-width: 480px) {
+       .col-1 {
+         &.short-col {
+           width: 50%;
+           min-width: 10px;
+         }
+       }
+
+       .col-2 {
+         &.short-col {
+           width: 50%;
+           min-width: 10px;
+         }
+       }
+     }
+
+     @media only screen and (max-width: 1088px) {
+       .location-col {
+         width: 100%;
+       }
+     }
+   }
+ }

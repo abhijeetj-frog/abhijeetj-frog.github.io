@@ -1,0 +1,365 @@
+{
+  "content": [
+    {
+      "carrier": {
+        "type": "air",
+        "name": "Air Canada",
+        "description": "AM5021"
+      },
+      "bigBlocks": [
+        {
+          "label": "From",
+          "value": "YYZ",
+          "date": "12/09/2018 13:30 EST"
+        },
+        {
+          "label": "To",
+          "value": "DFW",
+          "date": "12/10/2018 13:30 EST"
+        }
+      ],
+      "blocks": [
+        {
+          "label": "AWB",
+          "value": "123-12345 678"
+        },
+        {
+          "label": "Manifest",
+          "value": "ABC00000000"
+        }
+      ],
+      "showStops": false,
+      "agent": {
+        "service": "LTL",
+        "name": "Peter Moss",
+        "phone": "+1 752-308-7943"
+      },
+      "stops": [
+        {
+          "locationType": "Airport",
+          "date": "",
+          "time": "",
+          "mission": "Pickup",
+          "location": "YYZ",
+          "active": true,
+          "current": false
+        },
+        {
+          "locationType": "Airport",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": true,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": true,
+          "current": true
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "Location": "CN Tower",
+          "active": false,
+          "current": false
+        }
+      ],
+      "pickup": {
+        "locationType": "",
+        "location": "",
+        "contactName": "",
+        "phone": "",
+        "date": "",
+        "time": ""
+      },
+      "delivery": {
+        "locationType": "",
+        "location": "",
+        "contactName": "",
+        "phone": "",
+        "date": "",
+        "time": "",
+        "note": ""
+      }
+    },
+    {
+      "carrier": {
+        "type": "truck",
+        "name": "Carrier Name"
+      },
+      "blocks": [
+        {
+          "label": "BOL",
+          "value": "77YW 123456"
+        }
+      ],
+      "showStops": false,
+      "agent": {
+        "service": "LTL",
+        "name": "Peter Moss",
+        "phone": "+1 752-308-7943"
+      },
+      "stops": [
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Pickup",
+          "location": "YYZ",
+          "active": true,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": true,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": true,
+          "current": true
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "CN Tower",
+          "active": false,
+          "current": false
+        }
+      ],
+      "pickup": {
+        "locationType": "",
+        "location": "",
+        "contactName": "",
+        "phone": "",
+        "date": "",
+        "time": ""
+      },
+      "delivery": {
+        "locationType": "",
+        "location": "",
+        "contactName": "",
+        "phone": "",
+        "date": "",
+        "time": "",
+        "note": ""
+      }
+    },
+    {
+      "carrier": {
+        "type": "truck",
+        "name": "Carrier Name"
+      },
+      "blocks": [
+        {
+          "label": "BOL",
+          "value": "77YW 123456"
+        },
+        {
+          "label": "PAPS",
+          "value": "ABC00000000"
+        },
+        {
+          "label": "PARS",
+          "value": "ABC00000000"
+        }
+      ],
+      "showStops": false,
+      "agent": {
+        "service": "LTL",
+        "name": "Peter Moss",
+        "phone": "+1 752-308-7943"
+      },
+      "stops": [
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Pickup",
+          "location": "YYZ",
+          "active": true,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": true,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": true,
+          "current": true
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "Location",
+          "active": false,
+          "current": false
+        },
+        {
+          "locationType": "Company",
+          "date": "",
+          "time": "",
+          "mission": "Delivery",
+          "location": "CN Tower",
+          "active": false,
+          "current": false
+        }
+      ],
+      "pickup": {
+        "locationType": "",
+        "location": "",
+        "contactName": "",
+        "phone": "",
+        "date": "",
+        "time": ""
+      },
+      "delivery": {
+        "locationType": "",
+        "location": "",
+        "contactName": "",
+        "phone": "",
+        "date": "",
+        "time": "",
+        "note": ""
+      }
+    }
+  ]
+}

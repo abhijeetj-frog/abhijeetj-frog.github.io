@@ -1,0 +1,157 @@
+{
+    "content": [{
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com",
+            "subSalesAgents": [{
+                    "label": "Turab Kermalli",
+                    "value": "/admin/sales-center/sales/edit/customers"
+                },
+                {
+                    "label": "Rupak Kundu",
+                    "value": "/admin/sales-center/sales/edit/customers"
+                }
+            ]
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com",
+            "subSalesAgents": [{
+                    "label": "Turab Kermalli",
+                    "value": "/admin/sales-center/sales/edit/customers"
+                },
+                {
+                    "label": "Rupak Kundu",
+                    "value": "/admin/sales-center/sales/edit/customers"
+                }
+            ]
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com",
+            "subSalesAgents": [{
+                    "label": "Turab Kermalli",
+                    "value": "/admin/sales-center/sales/edit/customers"
+                },
+                {
+                    "label": "Rupak Kundu",
+                    "value": "/admin/sales-center/sales/edit/customers"
+                }
+            ]
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        },
+        {
+            "subAgent": "Turab Kermally",
+            "commission": "10%",
+            "customers": 14,
+            "created": "12/11/2019",
+            "parentAgent": "Shane Friedman",
+            "promoCode": "Turab",
+            "salesUrl": "https://eshipper.turab.com"
+        }
+
+    ]
+}

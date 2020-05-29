@@ -1,0 +1,384 @@
+{
+  "content": [
+    {
+      "markupId": "markupId1",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Priority Mail Legal Flat Rate Envelope",
+      "direction": "Markup",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId2",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Worldwide Express",
+      "direction": "Markdown",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": false,
+      "usaFlag": false,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId3",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Priority Mail Legal Flat Rate Envelope",
+      "direction": "Markup",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId4",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Worldwide Express",
+      "direction": "Markup",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId5",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Express 9AM",
+      "direction": "Markdown",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId6",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Worldwide Express",
+      "direction": "Markup",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId7",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Second Day Air A.M.",
+      "direction": "Markup",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId8",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Priority Mail Legal Flat Rate Envelope",
+      "direction": "Markup",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": false,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId9",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Second Day Air A.M.",
+      "direction": "Markdown",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": false,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    },
+    {
+      "markupId": "markupId10",
+      "markupLogo": "content/images/logos/ups.png",
+      "markupName": "Priority Mail Legal Flat Rate Envelope",
+      "direction": "Markdown",
+      "markupMin": 2,
+      "markupDom": 5,
+      "markupIntl": 10,
+      "markupPrioritization": ["Lane", "Weight", "Country", "Range"],
+      "caFlag": true,
+      "usaFlag": true,
+      "weight5": 0,
+      "weight10": 0,
+      "weight15": 0,
+      "weightMax": 0,
+      "flatRate": 0,
+      "commCourierOpExp": 0,
+      "lines": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ],
+      "countries": [
+        {
+          "location": "",
+          "markup": ""
+        }
+      ],
+      "codeRange": [
+        {
+          "from": "",
+          "to": "",
+          "markup": ""
+        }
+      ]
+    }
+  ]
+}

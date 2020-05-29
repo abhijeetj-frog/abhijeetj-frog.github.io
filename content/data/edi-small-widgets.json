@@ -1,0 +1,48 @@
+[
+  {
+    "label": "Carrier invoice",
+    "value": "XR-123456789012345678"
+  },
+  {
+    "label": "EDI Order",
+    "value": 4,
+    "short": true
+  },
+  {
+    "label": "Invoiced ",
+    "value": "02/30/2019",
+    "short": true
+  },
+  {
+    "label": "Processed",
+    "value": "02/30/2019",
+    "short": true
+  },
+  {
+    "label": "Tot. Inv Amt (CAD)",
+    "value": 8982000.0,
+    "currency": true,
+    "details": [
+      {
+        "label": "Base Charge",
+        "value": 456.5
+      },
+      {
+        "label": "Border Fee",
+        "value": 50.5
+      },
+      {
+        "label": "Other (16%)",
+        "value": 12.5
+      },
+      {
+        "label": "Fuel Surcharges",
+        "value": 90.2
+      },
+      {
+        "label": "HST (13 %)",
+        "value": 78.34
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "content": [
+    {
+      "id": "id1",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Pak"],
+      "caFlag": true,
+      "usaFlag": true
+    },
+    {
+      "id": "id2",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Pak"],
+      "caFlag": true,
+      "usaFlag": true
+    },
+    {
+      "id": "id3",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Envelope", "Pak"],
+      "caFlag": true,
+      "usaFlag": true
+    },
+    {
+      "id": "id4",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": false,
+      "usaFlag": false
+    },
+    {
+      "id": "id5",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": true,
+      "usaFlag": false
+    },
+    {
+      "id": "id6",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": false,
+      "usaFlag": true
+    },
+    {
+      "id": "id7",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": false,
+      "usaFlag": false
+    },
+    {
+      "id": "id8",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": true,
+      "usaFlag": true
+    },
+    {
+      "id": "id9",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": true,
+      "usaFlag": true
+    },
+    {
+      "id": "id10",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": false,
+      "usaFlag": false
+    },
+    {
+      "id": "id11",
+      "serviceLogo": "content/images/logos/ups.png",
+      "serviceName": "Service Name",
+      "packageTypes": ["Package", "Envelope", "Pak"],
+      "caFlag": true,
+      "usaFlag": false
+    }
+  ]
+}

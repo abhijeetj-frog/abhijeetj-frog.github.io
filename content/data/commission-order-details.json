@@ -1,0 +1,130 @@
+{
+    "company": {
+        "name": "",
+        "logo": "",
+        "info": ""
+    },
+    "from": {
+        "label": "From",
+        "title": "MacAndrews & Forbes Holdings",
+        "description": "4 Chome-8-２４ Kudanminami, Chiyoda-ku, Tōkyō-to 102-0074, Japan",
+        "secondDescription": "04/28/2018"
+    },
+    "fromContact": {
+        "label": "Contact",
+        "title": "Marian Gray",
+        "description": "matteo.krajcik@reynolds.io",
+        "secondDescription": "641-146-0234"
+    },
+    "to": {
+        "label": "To",
+        "title": "Statbucks Canada",
+        "description": "16 Bloor St W, Toronto, ON M6P 1A7, Canada",
+        "secondDescription": "04/28/2018"
+    },
+    "toContact": {
+        "label": "Contact",
+        "title": "Marian Gray",
+        "description": "matteo.krajcik@reynolds.io",
+        "secondDescription": "641-146-0234"
+    },
+    "additionalInfo": [{
+            "label": "EDI Invoice Number",
+            "value": "5667890"
+        },
+        {
+            "label": "Invoice Number",
+            "value": 565942
+        },
+        {
+            "label": "Status",
+            "value": "Invoiced"
+        },
+        {
+            "label": "Date Created",
+            "value": "12/24/2019. 18:05"
+        },
+        {
+            "label": "EDI Invoice Date",
+            "value": "12/28/2019"
+        },
+        {
+            "label": "Tracking Number",
+            "value": "1Z5F13991433723970"
+        },
+        {
+            "label": "Carrier",
+            "value": "UPS"
+        },
+        {
+            "label": "Service",
+            "value": "Express"
+        },
+        {
+            "label": "Shipping Date",
+            "value": "12/28/2019"
+        },
+        {
+            "label": "Orignal Order Number",
+            "value": "3919145"
+        },
+        {
+            "label": "Job Type",
+            "value": "Overnight Courier"
+        },
+        {
+            "label": "Size (Actual / Charged)",
+            "value": "1.00 / 1.00"
+        }
+    ],
+    "orignalCharges": [{
+            "label": "Base/Freight Class",
+            "value": 456.00,
+            "currency": true
+        },
+        {
+            "label": "Fuel Charge",
+            "value": 0.00,
+            "currency": true
+        },
+        {
+            "label": "GST",
+            "value": 0.00,
+            "currency": true
+        },
+        {
+            "divider": true
+        },
+        {
+            "active": true,
+            "label": "Total",
+            "value": 456.00,
+            "currency": true
+        }
+    ],
+    "applicableCharges": [{
+            "label": "Base/Freight Class",
+            "value": 456.00,
+            "currency": true
+        },
+        {
+            "label": "Fuel Charge",
+            "value": 0.00,
+            "currency": true
+        },
+        {
+            "label": "GST",
+            "value": 0.00,
+            "currency": true
+        },
+        {
+            "divider": true
+        },
+        {
+            "active": true,
+            "label": "Total",
+            "value": 456.00,
+            "currency": true
+        }
+    ]
+}

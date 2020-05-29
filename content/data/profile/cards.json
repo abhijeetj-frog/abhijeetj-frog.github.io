@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "default": false,
+      "logo": "content/images/cards/mastercard.svg",
+      "number": "9876123456784321",
+      "expireMonth": "4",
+      "expireYear": "11",
+      "cvc": "333",
+      "cardHolderName": "Tyler Figueroa",
+      "address1": "268 Lake Rd",
+      "address2": "",
+      "city": "New York",
+      "stateOrProvince": "NY",
+      "zipOrPostal": "10036",
+      "country": "USA",
+      "privacy": false
+    },
+    {
+      "default": true,
+      "logo": "content/images/cards/visa.svg",
+      "number": "1234567898760000",
+      "expireMonth": "4",
+      "expireYear": "11",
+      "cvc": "333",
+      "cardHolderName": "Tyler Figueroa",
+      "address1": "268 Lake Rd",
+      "address2": "",
+      "city": "New York",
+      "stateOrProvince": "NY",
+      "zipOrPostal": "10036",
+      "country": "USA",
+      "privacy": false
+    },
+    {
+      "default": false,
+      "logo": "content/images/cards/visa.svg",
+      "number": "5678987600001234",
+      "expireMonth": "4",
+      "expireYear": "11",
+      "cvc": "333",
+      "cardHolderName": "Tyler Figueroa",
+      "address1": "268 Lake Rd",
+      "address2": "",
+      "city": "New York",
+      "stateOrProvince": "NY",
+      "zipOrPostal": "10036",
+      "country": "USA",
+      "privacy": false
+    }
+  ]
+}

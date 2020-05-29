@@ -1,0 +1,59 @@
+{
+  "content": [
+    {
+      "payeeType": "Vendors",
+      "categories": [
+        {
+          "name": "Donations"
+        },
+        {
+          "name": "Financial"
+        }
+      ]
+    },
+    {
+      "payeeType": "Customers",
+      "categories": [
+        {
+          "name": "Settlement"
+        },
+        {
+          "name": "Commissions"
+        }
+      ]
+    },
+    {
+      "payeeType": "Carrier",
+      "categories": [
+        {
+          "name": "Consultants"
+        },
+        {
+          "name": "Freight"
+        }
+      ]
+    },
+    {
+      "payeeType": "Salespeople",
+      "categories": [
+        {
+          "name": "Commissions"
+        }
+      ]
+    },
+    {
+      "payeeType": "Miscellaneous",
+      "categories": [
+        {
+          "name": "Donations"
+        },
+        {
+          "name": "Commissions"
+        },
+        {
+          "name": "Maintenance"
+        }
+      ]
+    }
+  ]
+}

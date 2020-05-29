@@ -1,0 +1,45 @@
+[
+  {
+    "label": "SHIPT",
+    "value": 23400
+  },
+  {
+    "label": "Oending",
+    "value": 890
+  },
+  {
+    "label": "In Transit",
+    "value": 2900
+  },
+  {
+    "label": "Delivered",
+    "value": 900
+  },
+  {
+    "label": "Charge",
+    "value": 19355318.62,
+    "currency": true,
+    "details": [
+      {
+        "label": "Base Charge",
+        "value": 456.5
+      },
+      {
+        "label": "Border Fee",
+        "value": 50.5
+      },
+      {
+        "label": "Other (16%)",
+        "value": 12.5
+      },
+      {
+        "label": "Fuel Surcharges",
+        "value": 90.2
+      },
+      {
+        "label": "HST (13 %)",
+        "value": 78.34
+      }
+    ]
+  }
+]

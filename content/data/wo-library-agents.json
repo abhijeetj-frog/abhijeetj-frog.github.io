@@ -1,0 +1,171 @@
+{
+  "content": [
+    {
+      "carrierName": "Jackson Fish Market",
+      "name": "Alan Boone",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Ontario",
+          "color": "light-blue"
+        }
+      ]
+    },
+    {
+      "carrierName": "Carrier Name",
+      "name": "Anthony Lopez",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Ontario",
+          "color": "light-blue"
+        },
+        {
+          "name": "Quebec",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "carrierName": "Power Corporation of Canada",
+      "name": "Milton Alexander",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Quebec",
+          "color": "dark-blue"
+        }
+      ]
+    },
+    {
+      "carrierName": "Power Corporation of Canada",
+      "name": "Bryan Cook",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "British Columbia",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "carrierName": "George Weston Limited",
+      "name": "Elnora Cohen",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Ontario",
+          "color": "light-blue"
+        },
+        {
+          "name": "Quebec",
+          "color": "green"
+        },
+        {
+          "name": "Nova Scotia",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "carrierName": "Carrier Name",
+      "name": "Logan Jimenez",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Alberta",
+          "color": "orange"
+        },
+        {
+          "name": "British Columbia",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "carrierName": "George Weston Limited",
+      "name": "Alan Boone",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Alberta",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "carrierName": "Carrier Name",
+      "name": "Randy Edwards",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Nova Scotia",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "carrierName": "Power Corporation of Canada",
+      "name": "Milton Alexander",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Ontario",
+          "color": "light-blue"
+        },
+        {
+          "name": "Quebec",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "carrierName": "Power Corporation of Canada",
+      "name": "Logan Jimenez",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Quebec",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "carrierName": "Carrier Name",
+      "name": "Bryan Cook",
+      "phone": "+1 897 1234 5678",
+      "email": "dariana_altenwerth@heathcote.me",
+      "country": "CA",
+      "areas": [
+        {
+          "name": "Alberta",
+          "color": "orange"
+        },
+        {
+          "name": "Saskatchewan",
+          "color": "brown"
+        }
+      ]
+    }
+  ]
+}

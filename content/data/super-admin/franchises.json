@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "franchiseId": "id1",
+      "franchiseLogo": "content/images/franchise.png",
+      "franchiseName": "Franchises Name",
+      "email": "dariana_altenwerth@heathcote.me",
+      "phone": "+1 345 678 9033",
+      "masterFlag": false
+    },
+    {
+      "franchiseId": "id2",
+      "franchiseLogo": "content/images/franchise.png",
+      "franchiseName": "SmarteShip",
+      "email": "dariana_altenwerth@heathcote.me",
+      "phone": "+1 345 678 9033",
+      "masterFlag": true
+    },
+    {
+      "franchiseId": "id3",
+      "franchiseLogo": "content/images/franchise.png",
+      "franchiseName": "Franchises Name",
+      "email": "dariana_altenwerth@heathcote.me",
+      "phone": "+1 345 678 9033",
+      "masterFlag": false
+    },
+    {
+      "franchiseId": "id4",
+      "franchiseLogo": "content/images/franchise.png",
+      "franchiseName": "Franchises Name",
+      "email": "dariana_altenwerth@heathcote.me",
+      "phone": "+1 345 678 9033",
+      "masterFlag": false
+    },
+    {
+      "franchiseId": "id5",
+      "franchiseLogo": "content/images/franchise.png",
+      "franchiseName": "Franchises Name",
+      "email": "dariana_altenwerth@heathcote.me",
+      "phone": "+1 345 678 9033",
+      "masterFlag": false
+    },
+    {
+      "franchiseId": "id6",
+      "franchiseLogo": "content/images/franchise.png",
+      "franchiseName": "Franchises Name",
+      "email": "dariana_altenwerth@heathcote.me",
+      "phone": "+1 345 678 9033",
+      "masterFlag": false
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+    "content": [{
+            "customerId": "1238790",
+            "customerName": "Company 1 Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "",
+            "created": "12/01/2020",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 12,
+            "chip": {
+                "name": "TRF",
+                "type": "light-blue"
+            },
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "1238790",
+            "customerName": "Company 2 Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "12/01/2020",
+            "active": true,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 14,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "1238790",
+            "customerName": "Company 3 Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "12/01/2020",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 12,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "1238790",
+            "customerName": "Company 4 Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "12/01/2020",
+            "active": true,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 12,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "1238790",
+            "customerName": "Company 5 Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "12/01/2020",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "1238790",
+            "customerName": "Company 5 Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "12/01/2020",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "customerId": "1238790",
+            "customerName": "Company 5 Inc",
+            "logo": "content/images/logos/FedEx.png",
+            "dormantStage": "3 M",
+            "lastShipment": "4/20/2018",
+            "salesPerson": "Willie French",
+            "created": "12/01/2020",
+            "active": false,
+            "customerType": "Internal",
+            "address1": "268 Lake Rd",
+            "address2": "",
+            "city": "New York",
+            "stateOrProvince": "NY",
+            "zipOrPostal": "10036",
+            "country": "USA",
+            "contactPerson": "Anthony Lopez",
+            "phoneNumber": "+1 345 678 9033",
+            "email": "braden_bode@yahoo.com",
+            "webCustomer": false,
+            "shipmentDefaultPackageType": "Envelope",
+            "shipmentDefaultPickupLocation": "Location",
+            "shipmentServiceCountryExcluded": "",
+            "insuranceType": "eShipper",
+            "insurance": "",
+            "salesRep": "",
+            "reference1": "Tyler Figueroa",
+            "reference2": "",
+            "reference3": "",
+            "subAffiliateFlag": true,
+            "subAffiliateRebate": "",
+            "subAffiliateDiscount": "",
+            "linkToAffiliate": "",
+            "affCustomers": 5,
+            "goalCompletionList": [{
+                    "name": "CC Entered",
+                    "flag": false
+                },
+                {
+                    "name": "Profile completed",
+                    "flag": false
+                },
+                {
+                    "name": "First Shipment Made",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped LTL",
+                    "flag": false
+                },
+                {
+                    "name": "Referred User",
+                    "flag": false
+                },
+                {
+                    "name": "Shipped Domestically",
+                    "flag": true
+                },
+                {
+                    "name": "Shipped Internationally",
+                    "flag": true
+                }
+            ]
+        }
+    ]
+}

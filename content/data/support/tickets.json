@@ -1,0 +1,388 @@
+{
+  "content": [
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "Someone",
+      "tracking": "CXDT1234567800",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Pending",
+        "color": ""
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Development Help",
+      "contactPreference": "Someone",
+      "tracking": "CXDT1234567800",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Claims",
+        "color": "red"
+      },
+      "reason": "Development Help",
+      "contactPreference": "Someone",
+      "tracking": "",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "Someone",
+      "tracking": "CXDT1234567800",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Claims",
+        "color": "red"
+      },
+      "reason": "Development Help",
+      "contactPreference": "Someone",
+      "tracking": "",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [
+        {
+          "name": "Damage photo"
+        },
+        {
+          "name": "Document Name can be long"
+        }
+      ],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Claims",
+        "color": "red"
+      },
+      "reason": "Feedback",
+      "tracking": "",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "contactPreference": "Someone",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [
+        {
+          "name": "Damage photo"
+        },
+        {
+          "name": "Document Name can be long"
+        }
+      ],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "Someone",
+      "tracking": "CXDT1234567800",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "General",
+        "color": "green"
+      },
+      "reason": "Feedback",
+      "contactPreference": "Someone",
+      "tracking": "",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "Pending",
+        "color": ""
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "Someone",
+      "tracking": "CXDT1234567800",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [
+        {
+          "name": "Damage photo"
+        },
+        {
+          "name": "Document Name can be long"
+        }
+      ],
+      "status": {
+        "name": "Resolved",
+        "color": "green"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Claims",
+        "color": "red"
+      },
+      "reason": "Feedback",
+      "contactPreference": "Someone",
+      "tracking": "",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    },
+    {
+      "customer": "Bashirian and Rutherford Hybrid Logistics Inc.",
+      "ticket": "TK 89674590123456",
+      "type": {
+        "name": "Technical",
+        "color": "dark-blue"
+      },
+      "reason": "Feedback",
+      "contactPreference": "Someone",
+      "tracking": "CXDT1234567800",
+      "storeName": "La-Z-Boy Furniture International in Toronto Galleries",
+      "sellingChannel": "Amazon",
+      "receivedDate": "04/28/2018",
+      "submitedDate": "04/28/2018",
+      "documents": [
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-1.jpg"
+        },
+        {
+          "imageName": "image",
+          "imagePath": "content/images/products/product-2.jpg"
+        }
+      ],
+      "documentsMissing": [],
+      "status": {
+        "name": "In Process",
+        "color": "blue"
+      },
+      "subject": "Platform breakdown constantly",
+      "description": "The user is unable to do their job using the productivity tools you have provided Potentially this may affect two or more employees if their activities are linked The system failure may be enterprise",
+      "notifyMeForUpdates": false
+    }
+  ]
+}

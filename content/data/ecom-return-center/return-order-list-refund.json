@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "imgPath": "content/images/products/product-2.jpg",
+      "name": "Mid-Century Pop-Up Storage Coffee Table - Walnut",
+      "price": 34.5,
+      "qty": 6,
+      "reason": "",
+      "description": "",
+      "brokenPhotos": [],
+      "action": "Replace"
+    },
+    {
+      "imgPath": "content/images/products/product-3.jpg",
+      "name": "Cosette crystal taper candle holders set of 3",
+      "price": 34.5,
+      "qty": 6,
+      "reason": "Broken Items",
+      "description": "",
+      "brokenPhotos": [],
+      "action": "Refund"
+    },
+    {
+      "imgPath": "content/images/products/product-4.jpg",
+      "name": "Rosa 80 oz. Aqua Glass Pitcher with Ombre",
+      "price": 34.5,
+      "qty": 3,
+      "reason": "Broken Items",
+      "description": "",
+      "brokenPhotos": [
+        {
+          "imageName": "Product 1",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 2",
+          "imagePath": "content/images/products/product.jpg"
+        },
+        {
+          "imageName": "Product 3",
+          "imagePath": "content/images/products/product.jpg"
+        }
+      ],
+      "action": "Refund"
+    }
+  ]
+}

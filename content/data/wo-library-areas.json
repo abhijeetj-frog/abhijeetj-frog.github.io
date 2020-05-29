@@ -1,0 +1,21 @@
+[{
+    "name": "Ontario",
+    "color": "light-blue"
+  },
+  {
+    "name": "British Columbia",
+    "color": "purple"
+  }, {
+    "name": "Québec",
+    "color": "green"
+  }, {
+    "name": "Alberta",
+    "color": "orange"
+  }, {
+    "name": "Nova Scotia",
+    "color": "red"
+  }, {
+    "name": "Saskatchewan",
+    "color": "brown"
+  }
+]

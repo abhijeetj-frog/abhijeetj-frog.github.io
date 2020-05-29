@@ -1,0 +1,136 @@
+{
+  "content": [
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "SP",
+        "type": "light-blue"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "eCom",
+        "type": "purple"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "Quick",
+        "type": "orange"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "Delivered",
+      "statusColor": "green"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "",
+        "type": ""
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "Delivered",
+      "statusColor": "green"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "",
+        "type": ""
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    },
+    {
+      "trakingLabel": "Trans",
+      "trakingName": "Starbucks Canada",
+      "trakingSubName": "Express",
+      "trakingNumber": "1234567890",
+      "logo": "content/images/logos/ups.png",
+      "chip": {
+        "name": "eCom",
+        "type": "purple"
+      },
+      "fromCompanyName": "Company Name",
+      "fromCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "fromDate": "04/28/2018",
+      "toCompanyName": "Company Name",
+      "toCompanyAddress": "Saint-Simon-de-Rimouski, G0L 4C0, CA",
+      "toDate": "04/28/2018",
+      "createdData": "04/28/2018",
+      "revenue": 1896.5,
+      "profit": 895.5,
+      "status": "In Transit",
+      "statusColor": "blue"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "label": "Shipments",
+    "value": 736
+  },
+  {
+    "label": "In Transit",
+    "value": 246
+  },
+  {
+    "label": "Avenue",
+    "value": 89736.78,
+    "currency": true
+  },
+  {
+    "label": "Cost",
+    "value": 5000.5,
+    "currency": true
+  },
+  {
+    "label": "Profit",
+    "value": 89736.78,
+    "currency": true
+  }
+]

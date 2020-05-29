@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "name": "New Invoice",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Credit Balance Lower Than",
+      "value": "500.00",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Credit Card charged for Extra Charges on Shipment",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Payment Not Accepted",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Appended invoice received (I.e. for extra charges)",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Discount applied",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Invoice Payment Needed",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    },
+    {
+      "name": "Invoice Overdue",
+      "system": true,
+      "email": true,
+      "frequency": "Monthly",
+      "active": true
+    }
+  ]
+}
